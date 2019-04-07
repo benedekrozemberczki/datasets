@@ -34,7 +34,7 @@ The data was collected from the music streaming service Deezer (November 2017). 
 |---|---|---|---|
 | **Nodes** |41,773   | 54,573  |  47,538 |
 | **Edges** | 125,826  |498,202   |  222,887 |
-| **Density** |  0.001 | 0.004  | 0.002  |
+| **Density** |  0.0001 | 0.0004  | 0.0002  |
 | **Transitvity** |    0.0752|  0.1146  | 0.0929   |
 
 ### Possible Tasks
