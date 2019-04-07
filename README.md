@@ -44,11 +44,13 @@ The data was collected from the music streaming service Deezer (November 2017). 
 
 ### Citing
 
-@article{rozemberczki2018gemsec,
-  title={Gemsec: graph embedding with self clustering},
-  author={Rozemberczki, Benedek and Davies, Ryan and Sarkar, Rik and Sutton, Charles},
-  journal={arXiv preprint arXiv:1802.03997},
-  year={2018}
-}
+If you find this datasaet useful in your research, please cite the following paper:
+
+>@misc{1802.03997,    
+       author = {Benedek Rozemberczki and Ryan Davies and Rik Sarkar and Charles Sutton},    
+       title = {GEMSEC: Graph Embedding with Self Clustering},   
+       year = {2018},    
+       eprint = {arXiv:1802.03997}
+       }
 
 ## Wikipedia Article Networks
