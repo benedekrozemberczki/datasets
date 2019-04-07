@@ -42,7 +42,7 @@ The data was collected from the music streaming service Deezer (November 2017). 
 
 ### Possible Tasks
 
-- **Classification**
+- **Node classification**
 - **Link prediction**
 - **Community detection**
 - **Network visualization**
