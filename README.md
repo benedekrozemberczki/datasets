@@ -21,9 +21,9 @@ The data was collected from the music streaming service Deezer (November 2017). 
 
 ### Link
 
-[Hungary](#wikipedia-article-networks)
-[Croatia](#wikipedia-article-networks)
-[Romania](#wikipedia-article-networks)
+- [Hungary](#wikipedia-article-networks)
+- [Croatia](#wikipedia-article-networks)
+- [Romania](#wikipedia-article-networks)
 
 ### Properties
 
@@ -45,6 +45,7 @@ The data was collected from the music streaming service Deezer (November 2017). 
 - **Classification**
 - **Link prediction**
 - **Community detection**
+- **Network Visualization**
 
 ### Citing
 
