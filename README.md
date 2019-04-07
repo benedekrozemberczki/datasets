@@ -30,6 +30,15 @@ We collected data about Facebook pages (November 2017). These datasets represent
 - **Node labels:** No.
 - **Temporal:** No.
 
+| **Government**| 		7,057|		89,455|||
+| **New Sites**| 		27,917| 	206,259|||
+| **Athletes**| 		13,866| 	86,858|||
+| **Public Figures**| 		11,565| 	67,114|||
+| **TV Shows**| 		3,892| 	17,262|||
+| **Politician**|  	5,908| 	41,729|||
+| **Artist**|  	50,515| 	819,306|||
+| **Company**| 	14,113| 	52,310|||
+
 ### Possible Tasks
 
 - **Link prediction**
