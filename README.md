@@ -21,9 +21,9 @@ The data was collected from the music streaming service Deezer (November 2017). 
 
 ### Link
 
-- [Hungary](#wikipedia-article-networks)
-- [Croatia](#wikipedia-article-networks)
 - [Romania](#wikipedia-article-networks)
+- [Croatia](#wikipedia-article-networks)
+- [Hungary](#wikipedia-article-networks)
 
 ### Properties
 
@@ -36,7 +36,7 @@ The data was collected from the music streaming service Deezer (November 2017). 
 |   | **RO**  | **HR**  | **HU**  |
 |---|---|---|---|
 | **Nodes** |41,773   | 54,573  |  47,538 |
-| **Edges** |   |   |   |
+| **Edges** | 125,826  |498,202   |  222,887 |
 | **Density** |   |   |   |
 | **Transitvity** |    |    |    |
 
