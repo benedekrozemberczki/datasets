@@ -27,6 +27,7 @@ The data was collected from the music streaming service Deezer (November 2017). 
 
 - **Directed:** No.
 - **Node features:** No.
+- **Edge features:** No.
 - **Node labels:** Yes. Multi-labeled.
 - **Temporal:** No.
 
