@@ -13,7 +13,36 @@ A collection of datasets collected for network science and machine learning rese
 3. [Wikipedia Article Networks](#wikipedia-article-networks)
 
 ## Facebook Page-Page Networks
+### Description
+The data was collected from the music streaming service Deezer (November 2017). These datasets represent friendship networks of users from 3 European countries. Nodes represent the users and edges are the mutual friendships. We reindexed the nodes in order to achieve a certain level of anonimity. The csv files contain the edges - nodes are indexed from 0. The json files contain the genre preferences of users - each key is a user id, the genres loved are given as lists. Genre notations are consistent across users. In each dataset users could like 84 distinct genres. Liked genre lists were compiled based on the liked song lists. The countries included are Romania, Croatia and Hungary. For each dataset we listed the number of nodes an edges.
 
+### Link
+
+- [Romania](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/RO/)
+- [Croatia](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/HR/)
+- [Hungary](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/HU/)
+
+### Properties
+
+- **Directed:** No.
+- **Node features:** No.
+- **Edge features:** No.
+- **Node labels:** Yes. Multi-labeled.
+- **Temporal:** No.
+
+|   | **RO**  | **HR**  | **HU**  |
+|---|---|---|---|
+| **Nodes** |41,773   | 54,573  |  47,538 |
+| **Edges** | 125,826  |498,202   |  222,887 |
+| **Density** |   |   |   |
+| **Transitvity** |    |    |    |
+
+### Possible Tasks
+
+- **Node classification**
+- **Link prediction**
+- **Community detection**
+- **Network visualization**
 
 ## Deezer Social Networks
 ### Description
