@@ -20,6 +20,9 @@ The data was collected from the music streaming service Deezer (November 2017). 
 
 ### Properties
 
+**Statistics**
+
+
 ### Citing
 
 
