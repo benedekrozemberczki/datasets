@@ -8,9 +8,9 @@ A collection of datasets collected for network science and machine learning rese
 
 ##### Contents  
 
-1. [Facebook Page-Page Networks](#facebook-networks)  
-2. [Spectral and Statistical Fingerprints](#spectral-and-statistical-fingerprints)
-3. [Deep Learning](#deep-learning)  
-4. [Graph Kernels](#graph-kernels)  
+1. [Facebook Page-Page Networks](#facebook-page-page-networks)  
+2. [Deezer Social Networks](#deezer-social-networks)
 
-## Facebook Networks
+## Facebook Page-Page Networks
+
+## Deezer Social Networks
