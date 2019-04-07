@@ -40,7 +40,7 @@ The data was collected from the music streaming service Deezer (November 2017). 
 ### Possible Tasks
 
 - **Classification**
-- **Edge prediction**
+- **Link prediction**
 - **Community detection**
 
 ### Citing
