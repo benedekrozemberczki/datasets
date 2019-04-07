@@ -21,12 +21,20 @@ The data was collected from the music streaming service Deezer (November 2017). 
 
 ### Link
 
+
+
 ### Properties
 
 - **Directed:** No.
 - **Node features:** No.
 - **Node labels:** Yes. Multi-labeled.
 - **Temporal:** No.
+
+|   | RO  | HU  | HR  |
+|---|---|---|---|
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 ### Citing
 
