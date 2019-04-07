@@ -22,8 +22,8 @@ The data was collected from the music streaming service Deezer (November 2017). 
 ### Link
 
 - [Romania](https://github.com/benedekrozemberczki/datasets/deezer/RO/)
-- [Croatia](#wikipedia-article-networks)
-- [Hungary](#wikipedia-article-networks)
+- [Croatia](https://github.com/benedekrozemberczki/datasets/deezer/HR/)
+- [Hungary](https://github.com/benedekrozemberczki/datasets/deezer/HU/)
 
 ### Properties
 
