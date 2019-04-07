@@ -8,44 +8,9 @@ A collection of datasets collected for network science and machine learning rese
 
 ##### Contents  
 
-1. [Facebook Page-Page Networks](#facebook-page-page-networks)  
-2. [Deezer Social Networks](#deezer-social-networks)
+1. [Deezer Social Networks](#deezer-social-networks)
+2. [Facebook Page-Page Networks](#facebook-page-page-networks)  
 3. [Wikipedia Article Networks](#wikipedia-article-networks)
-
-## Facebook Page-Page Networks
-### Description
-We collected data about Facebook pages (November 2017). These datasets represent blue verified Facebook page networks of different categories. Nodes represent the pages and edges are mutual likes among them. We reindexed the nodes in order to achieve a certain level of anonimity. The csv files contain the edges -- nodes are indexed from 0. We included 8 different distinct types of pages. These are listed below. For each dataset we listed the number of nodes an edges.
-
-### Link
-
-- [Romania](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/RO/)
-- [Croatia](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/HR/)
-- [Hungary](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/HU/)
-
-### Properties
-
-- **Directed:** No.
-- **Node features:** No.
-- **Edge features:** No.
-- **Node labels:** No.
-- **Temporal:** No.
-
-|   | **RO**  | **HR**  | **HU**  | |
-|---|---|---|---|---|
-| **Government**| 		7,057|		89,455|||
-| **New Sites**| 		27,917| 	206,259|||
-| **Athletes**| 		13,866| 	86,858|||
-| **Public Figures**| 		11,565| 	67,114|||
-| **TV Shows**| 		3,892| 	17,262|||
-| **Politician**|  	5,908| 	41,729|||
-| **Artist**|  	50,515| 	819,306|||
-| **Company**| 	14,113| 	52,310|||
-
-### Possible Tasks
-
-- **Link prediction**
-- **Community detection**
-- **Network visualization**
 
 ## Deezer Social Networks
 ### Description
@@ -89,5 +54,40 @@ If you find this datasaet useful in your research, please cite the following pap
        year = {2018},    
        eprint = {arXiv:1802.03997}
        }
+
+## Facebook Page-Page Networks
+### Description
+We collected data about Facebook pages (November 2017). These datasets represent blue verified Facebook page networks of different categories. Nodes represent the pages and edges are mutual likes among them. We reindexed the nodes in order to achieve a certain level of anonimity. The csv files contain the edges -- nodes are indexed from 0. We included 8 different distinct types of pages. These are listed below. For each dataset we listed the number of nodes an edges.
+
+### Link
+
+- [Romania](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/RO/)
+- [Croatia](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/HR/)
+- [Hungary](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/HU/)
+
+### Properties
+
+- **Directed:** No.
+- **Node features:** No.
+- **Edge features:** No.
+- **Node labels:** No.
+- **Temporal:** No.
+
+|   | **Nodes**  | **Edges**  | **Density**  | **Transitvity**|
+|---|---|---|---|---|
+| **Government**| 		7,057|		89,455|||
+| **New Sites**| 		27,917| 	206,259|||
+| **Athletes**| 		13,866| 	86,858|||
+| **Public Figures**| 		11,565| 	67,114|||
+| **TV Shows**| 		3,892| 	17,262|||
+| **Politician**|  	5,908| 	41,729|||
+| **Artist**|  	50,515| 	819,306|||
+| **Company**| 	14,113| 	52,310|||
+
+### Possible Tasks
+
+- **Link prediction**
+- **Community detection**
+- **Network visualization**
 
 ## Wikipedia Article Networks
