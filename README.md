@@ -31,9 +31,9 @@ The data was collected from the music streaming service Deezer (November 2017). 
 - **Node labels:** Yes. Multi-labeled.
 - **Temporal:** No.
 
-|   | **RO**  | **HU**  | **HR**  |
+|   | **RO**  | **HR**  | **HU**  |
 |---|---|---|---|
-| **Nodes** |   |   |   |
+| **Nodes** |41,773   | 54,573  |  47,538 |
 | **Edges** |   |   |   |
 | **Density** |   |   |   |
 | **Transitvity** |    |    |    |
