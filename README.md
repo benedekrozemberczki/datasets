@@ -32,9 +32,10 @@ The data was collected from the music streaming service Deezer (November 2017). 
 
 |   | RO  | HU  | HR  |
 |---|---|---|---|
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| Nodes |   |   |   |
+| Edges |   |   |   |
+| Density |   |   |   |
+| Transitvity |    |    |    |
 
 ### Possible Tasks
 
