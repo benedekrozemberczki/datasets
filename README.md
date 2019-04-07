@@ -30,12 +30,12 @@ The data was collected from the music streaming service Deezer (November 2017). 
 - **Node labels:** Yes. Multi-labeled.
 - **Temporal:** No.
 
-|   | RO  | HU  | HR  |
+|   | **RO**  | **HU**  | **HR**  |
 |---|---|---|---|
-| Nodes |   |   |   |
-| Edges |   |   |   |
-| Density |   |   |   |
-| Transitvity |    |    |    |
+| **Nodes** |   |   |   |
+| **Edges** |   |   |   |
+| **Density** |   |   |   |
+| **Transitvity** |    |    |    |
 
 ### Possible Tasks
 
