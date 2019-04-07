@@ -30,6 +30,8 @@ We collected data about Facebook pages (November 2017). These datasets represent
 - **Node labels:** No.
 - **Temporal:** No.
 
+|   | **RO**  | **HR**  | **HU**  | |
+|---|---|---|---|---|
 | **Government**| 		7,057|		89,455|||
 | **New Sites**| 		27,917| 	206,259|||
 | **Athletes**| 		13,866| 	86,858|||
