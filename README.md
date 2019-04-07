@@ -75,14 +75,14 @@ We collected data about Facebook pages (November 2017). These datasets represent
 
 |   | **Nodes**  | **Edges**  | **Density**  | **Transitvity**|
 |---|---|---|---|---|
-| **Politician**|  	5,908| 	41,729|||
-| **Company**| 	14,113| 	52,310|||
-| **Athletes**| 		13,866| 	86,858|||
-| **Media**| 		27,917| 	206,259|||
-| **Public Figures**| 		11,565| 	67,114|||
-| **Artist**|  	50,515| 	819,306|||
-| **Government**| 		7,057|		89,455|||
-| **TV Shows**| 		3,892| 	17,262|||
+| **Politicians**|  	5,908| 	41,729|0.0024|0.3011|
+| **Companies**| 	14,113| 	52,310|0.0005|0.1532|
+| **Athletes**| 		13,866| 	86,858|0.0009|0.1292|
+| **Media**| 		27,917| 	206,259|0.0005|0.1140|
+| **Celebrities**| 		11,565| 	67,114|0.0010|0.1666|
+| **Artists**|  	50,515| 	819,306|0.0006|0.1140|
+| **Government**| 		7,057|		89,455|0.0036|0.2238|
+| **TV Shows**| 		3,892| 	17,262|0.0023|0.5906|
 
 ### Possible Tasks
 
