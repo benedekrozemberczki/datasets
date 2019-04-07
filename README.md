@@ -36,6 +36,12 @@ The data was collected from the music streaming service Deezer (November 2017). 
 |   |   |   |   |
 |   |   |   |   |
 
+### Possible Tasks
+
+- **Classification**
+- **Edge prediction**
+- **Community detection**
+
 ### Citing
 
 ## Wikipedia Article Networks
