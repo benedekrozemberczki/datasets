@@ -71,7 +71,7 @@ We collected data about Facebook pages (November 2017). These datasets represent
 
 - [Politicians](https://github.com/benedekrozemberczki/datasets/tree/master/facebook_page_page/politician/)
 - [Companies](https://github.com/benedekrozemberczki/datasets/tree/master/facebook_page_page/company/)
-- [Athletes](https://github.com/benedekrozemberczki/datasets/tree/master/facebook_page_page/athletes/)
+- [Athletes](https://github.com/benedekrozemberczki/datasets/tree/master/facebook_page_page/sport/)
 - [Media](https://github.com/benedekrozemberczki/datasets/tree/master/facebook_page_page/media/)
 - [Public Figures](https://github.com/benedekrozemberczki/datasets/tree/master/facebook_page_page/public_figure/)
 - [Artists](https://github.com/benedekrozemberczki/datasets/tree/master/facebook_page_page/artist/)
