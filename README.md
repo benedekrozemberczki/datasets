@@ -69,14 +69,14 @@ We collected data about Facebook pages (November 2017). These datasets represent
 
 ### Links
 
-- [Politicians](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/RO/)
-- [Companies](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/HR/)
-- [Athletes](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/HU/)
-- [Public Figures](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/HU/)
-- [Celebrities](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/HU/)
-- [Artists](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/HU/)
-- [Government](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/HU/)
-- [TV Shows](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/HU/)
+- [Politicians](https://github.com/benedekrozemberczki/datasets/tree/master/facebook_page_page/politician/)
+- [Companies](https://github.com/benedekrozemberczki/datasets/tree/master/facebook_page_page/company/)
+- [Athletes](https://github.com/benedekrozemberczki/datasets/tree/master/facebook_page_page/athletes/)
+- [Media](https://github.com/benedekrozemberczki/datasets/tree/master/facebook_page_page/media/)
+- [Public Figures](https://github.com/benedekrozemberczki/datasets/tree/master/facebook_page_page/public_figure/)
+- [Artists](https://github.com/benedekrozemberczki/datasets/tree/master/facebook_page_page/artist/)
+- [Government](https://github.com/benedekrozemberczki/datasets/tree/master/facebook_page_page/government/)
+- [TV Shows](https://github.com/benedekrozemberczki/datasets/tree/master/facebook_page_page/tvshow/)
 
 ### Properties
 
@@ -91,8 +91,8 @@ We collected data about Facebook pages (November 2017). These datasets represent
 | **Politicians**|  	5,908| 	41,729|0.0024|0.3011|
 | **Companies**| 	14,113| 	52,310|0.0005|0.1532|
 | **Athletes**| 		13,866| 	86,858|0.0009|0.1292|
-| **Public Figures**| 		27,917| 	206,259|0.0005|0.1140|
-| **Celebrities**| 		11,565| 	67,114|0.0010|0.1666|
+| **News Sites**| 		27,917| 	206,259|0.0005|0.1140|
+| **Public Figures**| 		11,565| 	67,114|0.0010|0.1666|
 | **Artists**|  	50,515| 	819,306|0.0006|0.1140|
 | **Government**| 		7,057|		89,455|0.0036|0.2238|
 | **TV Shows**| 		3,892| 	17,262|0.0023|0.5906|
