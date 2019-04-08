@@ -50,7 +50,7 @@ The data was collected from the music streaming service Deezer (November 2017). 
 
 ### Citing
 
-If you find this datasaet useful in your research, please cite the following paper:
+If you find these datasets useful in your research, please cite the following paper:
 
 >@misc{1802.03997,    
        author = {Benedek Rozemberczki and Ryan Davies and Rik Sarkar and Charles Sutton},    
