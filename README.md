@@ -103,4 +103,15 @@ We collected data about Facebook pages (November 2017). These datasets represent
 - **Community detection**
 - **Network visualization**
 
+### Citing
+
+If you find these datasets useful in your research, please cite the following paper:
+
+>@misc{1802.03997,    
+       author = {Benedek Rozemberczki and Ryan Davies and Rik Sarkar and Charles Sutton},    
+       title = {GEMSEC: Graph Embedding with Self Clustering},   
+       year = {2018},    
+       eprint = {arXiv:1802.03997}
+       }
+       
 ## Wikipedia Article Networks
