@@ -154,3 +154,9 @@ The data was collected from the music streaming service Deezer (November 2017). 
 
 If you find these datasets useful in your research, please cite the following paper:
 
+
+>@misc{1802.03997,    
+       author = {Benedek Rozemberczki, Carl Allen and Rik Sarkar},    
+       title = {Jump Around! Multi-scale Attributed Node Embedding},   
+       year = {2019}
+       }
