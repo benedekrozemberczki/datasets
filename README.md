@@ -131,9 +131,9 @@ The data was collected from the music streaming service Deezer (November 2017). 
 ### Properties
 
 - **Directed:** No.
-- **Node features:** No.
+- **Node features:** Yes.
 - **Edge features:** No.
-- **Node labels:** Yes. Multi-labeled.
+- **Node labels:** Yes. Continuous target.
 - **Temporal:** No.
 
 |   | **RO**  | **HR**  | **HU**  |
@@ -145,7 +145,7 @@ The data was collected from the music streaming service Deezer (November 2017). 
 
 ### Possible Tasks
 
-- **Node classification**
+- **Regression**
 - **Link prediction**
 - **Community detection**
 - **Network visualization**
@@ -154,9 +154,3 @@ The data was collected from the music streaming service Deezer (November 2017). 
 
 If you find these datasets useful in your research, please cite the following paper:
 
->@misc{1802.03997,    
-       author = {Benedek Rozemberczki and Ryan Davies and Rik Sarkar and Charles Sutton},    
-       title = {GEMSEC: Graph Embedding with Self Clustering},   
-       year = {2018},    
-       eprint = {arXiv:1802.03997}
-       }
