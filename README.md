@@ -115,3 +115,6 @@ If you find these datasets useful in your research, please cite the following pa
        }
        
 ## Wikipedia Article Networks
+<p align="center">
+  <img width="200" src="wikipedia-logo.jpg">
+</p>
