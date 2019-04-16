@@ -67,7 +67,9 @@ If you find these datasets useful in your research, please cite the following pa
 </p>
 
 ### Description
+<p align="justify">
 We collected data about Facebook pages (November 2017). These datasets represent blue verified Facebook page networks of different categories. Nodes represent the pages and edges are mutual likes among them. The csv files contain the edges - nodes are indexed from 0. We included 8 different distinct types of pages. These are listed below. For each dataset we listed the number of nodes an edges.
+</p>
 
 ### Links
 
