@@ -124,9 +124,9 @@ The data was collected from the music streaming service Deezer (November 2017). 
 
 ### Links
 
-- [Romania](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/RO/)
-- [Croatia](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/HR/)
-- [Hungary](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/HU/)
+- [Chameleons](https://github.com/benedekrozemberczki/datasets/tree/master/wikipedia/chameleon/)
+- [Crocodiles](https://github.com/benedekrozemberczki/datasets/tree/master/wikipedia/crocodile/)
+- [Squirrels](https://github.com/benedekrozemberczki/datasets/tree/master/wikipedia/squirrel/)
 
 ### Properties
 
@@ -136,7 +136,7 @@ The data was collected from the music streaming service Deezer (November 2017). 
 - **Node labels:** Yes. Continuous target.
 - **Temporal:** No.
 
-|   | **RO**  | **HR**  | **HU**  |
+|   | **Chameleon**  | **Crocodile**  | **Squirrel**  |
 |---|---|---|---|
 | **Nodes** |41,773   | 54,573  |  47,538 |
 | **Edges** | 125,826  |498,202 |  222,887 |
