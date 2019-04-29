@@ -163,6 +163,6 @@ If you find these datasets useful in your research, please cite the following pa
 
 >@misc{1802.03997,    
        author = {Benedek Rozemberczki, Carl Allen and Rik Sarkar},    
-       title = {Jump Around! Multi-scale Attributed Node Embedding},   
+       title = {Multi-scale Attributed Embedding of Networks},   
        year = {2019}
        }
