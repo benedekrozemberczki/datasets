@@ -1,5 +1,6 @@
 # Datasets
-
+<img src="https://img.shields.io/badge/stars-30+-blue.svg"/>
+<img src="https://img.shields.io/badge/license-CC0-blue.svg"/>
 Datasets collected for network science and machine learning research.
 
 <p align="center">
