@@ -1,7 +1,7 @@
-# Datasets
-![GitHub stars](https://img.shields.io/github/stars/benedekrozemberczki/MixHop-and-N-GCN.svg?style=plastic)
+# Datasets ![GitHub stars](https://img.shields.io/github/stars/benedekrozemberczki/MixHop-and-N-GCN.svg?style=plastic)
 ![GitHub forks](https://img.shields.io/github/forks/benedekrozemberczki/MixHop-and-N-GCN.svg?color=blue&style=plastic)
 ![License](https://img.shields.io/github/license/benedekrozemberczki/MixHop-and-N-GCN.svg?color=blue&style=plastic)
+
 Datasets collected for network science and machine learning research.
 
 <p align="center">
