@@ -1,4 +1,7 @@
-# Datasets <img src="https://img.shields.io/badge/stars-40+-blue.svg"/> <img src="https://img.shields.io/badge/license-CC0-blue.svg"/>
+# Datasets
+![GitHub stars](https://img.shields.io/github/stars/benedekrozemberczki/MixHop-and-N-GCN.svg?style=plastic)
+![GitHub forks](https://img.shields.io/github/forks/benedekrozemberczki/MixHop-and-N-GCN.svg?color=blue&style=plastic)
+![License](https://img.shields.io/github/license/benedekrozemberczki/MixHop-and-N-GCN.svg?color=blue&style=plastic)
 Datasets collected for network science and machine learning research.
 
 <p align="center">
