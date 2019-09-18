@@ -14,6 +14,8 @@ Datasets collected for network science and machine learning research.
 5. [Twitch Social Networks](#twitch-social-networks)
 6. [Facebook Large Page-Page Network](#facebook-large-page-page-network)
 
+## GitHub Social Network
+
 ## Deezer Social Networks
 <p align="center">
   <img width="200" src="deezer.jpg">
