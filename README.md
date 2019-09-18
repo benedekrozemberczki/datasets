@@ -200,3 +200,6 @@ If you find these datasets useful in your research, please cite the following pa
 ### Citing
 
 ## Facebook Large Page-Page Network
+<p align="center">
+  <img width="200" src="facebook.png">
+</p>
