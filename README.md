@@ -23,6 +23,9 @@ Datasets collected for network science and machine learning research.
 <p align="center">
   <img width="200" src="deezer.jpg">
 </p>
+### Description
+### Links
+### Properties
 
 ### Description
 <p align="justify">
