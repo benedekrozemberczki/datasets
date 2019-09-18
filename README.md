@@ -11,6 +11,8 @@ Datasets collected for network science and machine learning research.
 2. [Deezer Social Networks](#deezer-social-networks)
 3. [Facebook Page-Page Networks](#facebook-page-page-networks)  
 4. [Wikipedia Article Networks](#wikipedia-article-networks)
+5. [Twitch Social Networks](#twitch-social-networks)
+6. [Facebook Large Page-Page Network](#facebook-large-page-page-network)
 
 ## Deezer Social Networks
 <p align="center">
