@@ -171,6 +171,6 @@ If you find these datasets useful in your research, please cite the following pa
        year = {2019}
        }
 
-## Twicth Social Networks
+## Twitch Social Networks
 
 ## Facebook Large Page-Page Network
