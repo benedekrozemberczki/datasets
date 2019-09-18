@@ -8,9 +8,9 @@ Datasets collected for network science and machine learning research.
 
 ##### Contents  
 
-1. [Deezer Social Networks](#deezer-social-networks)
-2. [Facebook Page-Page Networks](#facebook-page-page-networks)  
-3. [Wikipedia Article Networks](#wikipedia-article-networks)
+2. [Deezer Social Networks](#deezer-social-networks)
+3. [Facebook Page-Page Networks](#facebook-page-page-networks)  
+4. [Wikipedia Article Networks](#wikipedia-article-networks)
 
 ## Deezer Social Networks
 <p align="center">
