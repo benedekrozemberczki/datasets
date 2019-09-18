@@ -26,6 +26,7 @@ Datasets collected for network science and machine learning research.
 ### Description
 ### Links
 ### Properties
+### Possible tasks
 
 ### Description
 <p align="justify">
