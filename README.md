@@ -18,16 +18,16 @@ Datasets collected for network science and machine learning research.
 <p align="center">
   <img width="200" src="Octocat.png">
 </p>
-
-## Deezer Social Networks
-<p align="center">
-  <img width="200" src="deezer.jpg">
-</p>
 ### Description
 ### Links
 ### Properties
 ### Possible tasks
 ### Citing
+
+## Deezer Social Networks
+<p align="center">
+  <img width="200" src="deezer.jpg">
+</p>
 
 ### Description
 <p align="justify">
