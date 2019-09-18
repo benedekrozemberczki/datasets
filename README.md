@@ -15,6 +15,9 @@ Datasets collected for network science and machine learning research.
 6. [Facebook Large Page-Page Network](#facebook-large-page-page-network)
 
 ## GitHub Social Network
+<p align="center">
+  <img width="200" src="Octocat.png">
+</p>
 
 ## Deezer Social Networks
 <p align="center">
