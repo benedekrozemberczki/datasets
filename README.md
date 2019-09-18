@@ -7,7 +7,7 @@ Datasets collected for network science and machine learning research.
 </p>
 
 ##### Contents  
-
+1. [GitHub Social Network](#deezer-social-networks)
 2. [Deezer Social Networks](#deezer-social-networks)
 3. [Facebook Page-Page Networks](#facebook-page-page-networks)  
 4. [Wikipedia Article Networks](#wikipedia-article-networks)
