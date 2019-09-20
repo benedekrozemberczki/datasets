@@ -25,11 +25,16 @@ A large social network of GitHub developers which we collected from the public A
 
 ### Link
 
-- [GitHub Web-ML](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/RO/)
+- [GitHub Web-ML](https://github.com/benedekrozemberczki/datasets/tree/master/github)
 
 ### Properties
 
 ### Possible tasks
+
+- **Binary node classification**
+- **Link prediction**
+- **Community detection**
+- **Network visualization**
 
 ### Citing
 
