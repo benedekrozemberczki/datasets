@@ -218,6 +218,11 @@ If you find these datasets useful in your research, please cite the following pa
 
 ### Possible tasks
 
+- **Binary node classification**
+- **Link prediction**
+- **Community detection**
+- **Network visualization**
+
 ### Citing
 
 ## Facebook Large Page-Page Network
