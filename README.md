@@ -167,9 +167,9 @@ The data was collected from the English Wikipedia (December 2018). These dataset
 
 ### Links
 
-- [Chameleons](https://github.com/benedekrozemberczki/datasets/tree/master/wikipedia/chameleon/)
-- [Crocodiles](https://github.com/benedekrozemberczki/datasets/tree/master/wikipedia/crocodile/)
-- [Squirrels](https://github.com/benedekrozemberczki/datasets/tree/master/wikipedia/squirrel/)
+- [Wikipedia Chameleons](https://github.com/benedekrozemberczki/datasets/tree/master/wikipedia/chameleon/)
+- [Wikipedia Crocodiles](https://github.com/benedekrozemberczki/datasets/tree/master/wikipedia/crocodile/)
+- [Wikipedia Squirrels](https://github.com/benedekrozemberczki/datasets/tree/master/wikipedia/squirrel/)
 
 ### Properties
 
