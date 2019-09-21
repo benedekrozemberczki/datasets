@@ -30,7 +30,7 @@ A large social network of GitHub developers which we collected from the public A
 ### Properties
 
 - **Directed:** No.
-- **Node features:** No.
+- **Node features:** Yes.
 - **Edge features:** No.
 - **Node labels:** Yes. Binary-labeled.
 - **Temporal:** No.
