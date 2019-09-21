@@ -39,8 +39,8 @@ A large social network of GitHub developers which was collected from the public 
 |---|---|
 | **Nodes** |37,700   | 
 | **Edges** | 289,003  |
-| **Density** |  0.0003 | 
-| **Transitvity** | 0.0001| 
+| **Density** |  0.001 | 
+| **Transitvity** | 0.013| 
 
 ### Possible Tasks
 - **Binary node classification**
