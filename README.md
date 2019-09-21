@@ -25,7 +25,7 @@ A large social network of GitHub developers which we collected from the public A
 
 ### Link
 
-- [GitHub Web-ML](https://github.com/benedekrozemberczki/datasets/tree/master/github)
+- [GitHub Web-ML](https://github.com/benedekrozemberczki/datasets/tree/master/git_web_ml)
 
 ### Properties
 
