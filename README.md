@@ -29,6 +29,19 @@ A large social network of GitHub developers which we collected from the public A
 
 ### Properties
 
+- **Directed:** No.
+- **Node features:** No.
+- **Edge features:** No.
+- **Node labels:** Yes. Multi-labeled.
+- **Temporal:** No.
+
+|   | **GitHub**  |
+|---|---|
+| **Nodes** |41,773   | 
+| **Edges** | 125,826  |
+| **Density** |  0.0001 | 
+| **Transitvity** | 0.0752| 
+
 ### Possible tasks
 
 - **Binary node classification**
