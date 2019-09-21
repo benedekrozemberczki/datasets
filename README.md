@@ -226,6 +226,14 @@ These datasets used for node classification and transfer learning are Twitch use
 
 ### Properties
 
+
+|   | **DE**  | **EN**  | **ES**  |**FR**  | **PT**  | **RU**  |
+|---|---|---|---|---|---|---|
+| **Nodes** |41,773   | 54,573  |  47,538 |41,773   | 54,573  |  47,538 |
+| **Edges** | 125,826  |498,202 |  222,887 |41,773   | 54,573  |  47,538 |
+| **Density** |  0.0001 | 0.0004  | 0.0002 |41,773   | 54,573  |  47,538 |
+| **Transitvity** | 0.0752| 0.1146 | 0.0929 |41,773   | 54,573  |  47,538 |
+
 ### Possible tasks
 
 - **Binary node classification**
