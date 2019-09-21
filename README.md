@@ -257,6 +257,13 @@ These datasets used for node classification and transfer learning are Twitch use
 - [Facebook Large Page-Page](https://github.com/benedekrozemberczki/datasets/tree/master/facebook_large)
 
 ### Properties
+
+- **Directed:** No.
+- **Node features:** Yes.
+- **Edge features:** No.
+- **Node labels:** Yes. Binary-labeled.
+- **Temporal:** No.
+
 ### Possible tasks
 
 ### Citing
