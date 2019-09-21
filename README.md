@@ -268,10 +268,10 @@ This webgraph is a page-page graph of verified Facebook sites. Nodes represent o
 
 |   | **Facebook**  |
 |---|---|
-| **Nodes** |37,700   | 
-| **Edges** | 289,003  |
-| **Density** |  0.0003 | 
-| **Transitvity** | 0.0001| 
+| **Nodes** |22,470   | 
+| **Edges** | 171,002  |
+| **Density** |  0.001 | 
+| **Transitvity** | 0.232| 
 
 ### Possible tasks
 
