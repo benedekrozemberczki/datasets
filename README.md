@@ -264,6 +264,18 @@ These datasets used for node classification and transfer learning are Twitch use
 - **Node labels:** Yes. Binary-labeled.
 - **Temporal:** No.
 
+|   | **Facebook**  |
+|---|---|
+| **Nodes** |37,700   | 
+| **Edges** | 289,003  |
+| **Density** |  0.0003 | 
+| **Transitvity** | 0.0001| 
+
 ### Possible tasks
+
+- **Multi-class node classification**
+- **Link prediction**
+- **Community detection**
+- **Network visualization**
 
 ### Citing
