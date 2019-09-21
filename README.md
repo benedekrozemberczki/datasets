@@ -216,12 +216,13 @@ These datasets used for node classification and transfer learning are Twitch use
 
 ### Links
 
-- [Romania](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/RO/)
-- [Croatia](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/HR/)
-- [Hungary](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/HU/)
-- [Romania](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/RO/)
-- [Croatia](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/HR/)
-- [Hungary](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/HU/)
+
+- [Germany](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/DE/)
+- [England](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/EN/)
+- [Spain](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/ES/)
+- [France](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/FR/)
+- [Porutgal](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/PT/)
+- [Russia](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/RU/)
 
 ### Properties
 
