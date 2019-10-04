@@ -207,11 +207,13 @@ The data was collected from the English Wikipedia (December 2018). These dataset
 
 If you find these datasets useful in your research, please cite the following paper:
 
-
->@misc{1802.03997,    
-       author = {Benedek Rozemberczki, Carl Allen and Rik Sarkar},    
-       title = {Multi-scale Attributed Embedding of Networks},   
-       year = {2019}
+>@misc{rozemberczki2019multiscale,    
+       title = {Multi-scale Attributed Node Embedding},   
+       author = {Benedek Rozemberczki and Carl Allen and Rik Sarkar},   
+       year = {2019},   
+       eprint = {1909.13021},  
+       archivePrefix = {arXiv},  
+       primaryClass = {cs.LG}   
        }
 
 ## Twitch Social Networks
