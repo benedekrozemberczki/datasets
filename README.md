@@ -255,6 +255,15 @@ These datasets used for node classification and transfer learning are Twitch use
 
 ### Citing
 
+>@misc{rozemberczki2019multiscale,    
+       title = {Multi-scale Attributed Node Embedding},   
+       author = {Benedek Rozemberczki and Carl Allen and Rik Sarkar},   
+       year = {2019},   
+       eprint = {1909.13021},  
+       archivePrefix = {arXiv},  
+       primaryClass = {cs.LG}   
+       }
+
 ## Facebook Large Page-Page Network
 <p align="center">
   <img width="200" src="facebook.png">
