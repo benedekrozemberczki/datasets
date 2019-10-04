@@ -101,12 +101,15 @@ The data was collected from the music streaming service Deezer (November 2017). 
 
 If you find these datasets useful in your research, please cite the following paper:
 
->@misc{1802.03997,    
-       author = {Benedek Rozemberczki and Ryan Davies and Rik Sarkar and Charles Sutton},    
-       title = {GEMSEC: Graph Embedding with Self Clustering},   
-       year = {2018},    
-       eprint = {arXiv:1802.03997}
-       }
+
+>@inproceedings{rozemberczki2019gemsec,    
+                title={GEMSEC: Graph Embedding with Self Clustering},    
+                author={Rozemberczki, Benedek and Davies, Ryan and Sarkar, Rik and Sutton, Charles},    
+                booktitle={Proceedings of the 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2019},    
+                pages={65-72},    
+                year={2019},    
+                organization={ACM}    
+                }
 
 ## Facebook Page-Page Networks
 <p align="center">
