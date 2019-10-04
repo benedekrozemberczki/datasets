@@ -50,6 +50,16 @@ A large social network of GitHub developers which was collected from the public 
 
 ### Citing
 
+
+>@misc{rozemberczki2019multiscale,    
+       title = {Multi-scale Attributed Node Embedding},   
+       author = {Benedek Rozemberczki and Carl Allen and Rik Sarkar},   
+       year = {2019},   
+       eprint = {1909.13021},  
+       archivePrefix = {arXiv},  
+       primaryClass = {cs.LG}   
+       }
+
 ## Deezer Social Networks
 <p align="center">
   <img width="200" src="deezer.jpg">
