@@ -65,7 +65,7 @@ The social networks of developers who starred popular machine learning and web d
 
 ## Twitch Ego Nets
 <p align="center">
-  <img width="200" src="deezer.jpg">
+  <img width="200" src="twitch.png">
 </p>
 
 ### Description
@@ -110,7 +110,7 @@ The ego-nets of Twitch users who participated in the partnership program in Apri
 ## Reddit Thread Graphs
 
 <p align="center">
-  <img width="200" src="Octocat.png">
+  <img width="200" src="reddit-logo-png-transparent.png">
 </p>
 
 ### Description
