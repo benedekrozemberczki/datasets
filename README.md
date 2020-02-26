@@ -63,6 +63,141 @@ The social networks of developers who starred popular machine learning and web d
        }
 ```
 
+## Twitch Ego Nets
+<p align="center">
+  <img width="200" src="Octocat.png">
+</p>
+
+### Description
+<p align="justify">
+The social networks of developers who starred popular machine learning and web development repositories (with at least 10 stars) until 2019 August. The task is to decide whether a social network belongs to web or machine learning developers. We only included the largest component (at least with 10 users) of graphs.</p>
+
+### Link
+
+- [GitHub StarGazer Graphs](https://github.com/benedekrozemberczki/datasets/blob/master/git_stargazers.zip)
+
+### Properties
+
+- **Number of graphs:** 12,725
+- **Directed:** No.
+- **Node features:** No.
+- **Edge features:** No.
+- **Graph labels:** Yes. Binary-labeled.
+- **Temporal:** No.
+
+|   | **Min**  |**Max**  |
+|---|---|---|
+| **Nodes** |10   | 957  | 
+| **Density** | 0.003 |0.561   | 
+| **Diameter** |  2 | 18 | 
+
+### Possible Tasks
+- **Graph classification**
+
+### Citing
+
+```bibtex
+>@misc{rozemberczki2020karateclub,    
+       title = {Karate Club: An open-source Python framework for unsupervised learning on graphs},   
+       author = {Benedek Rozemberczki and Rik Sarkar},   
+       year = {2020},   
+       publisher = {GitHub},   
+       journal = {GitHub repository},   
+       howpublished = {\url{https://github.com/benedekrozemberczki/karateclub}}   
+       }
+```
+
+## Reddit Thread Graphs
+
+<p align="center">
+  <img width="200" src="Octocat.png">
+</p>
+
+### Description
+<p align="justify">
+The social networks of developers who starred popular machine learning and web development repositories (with at least 10 stars) until 2019 August. The task is to decide whether a social network belongs to web or machine learning developers. We only included the largest component (at least with 10 users) of graphs.</p>
+
+### Link
+
+- [GitHub StarGazer Graphs](https://github.com/benedekrozemberczki/datasets/blob/master/git_stargazers.zip)
+
+### Properties
+
+- **Number of graphs:** 12,725
+- **Directed:** No.
+- **Node features:** No.
+- **Edge features:** No.
+- **Graph labels:** Yes. Binary-labeled.
+- **Temporal:** No.
+
+|   | **Min**  |**Max**  |
+|---|---|---|
+| **Nodes** |10   | 957  | 
+| **Density** | 0.003 |0.561   | 
+| **Diameter** |  2 | 18 | 
+
+### Possible Tasks
+- **Graph classification**
+
+### Citing
+
+```bibtex
+>@misc{rozemberczki2020karateclub,    
+       title = {Karate Club: An open-source Python framework for unsupervised learning on graphs},   
+       author = {Benedek Rozemberczki and Rik Sarkar},   
+       year = {2020},   
+       publisher = {GitHub},   
+       journal = {GitHub repository},   
+       howpublished = {\url{https://github.com/benedekrozemberczki/karateclub}}   
+       }
+```
+
+## Twitch Ego Nets
+
+<p align="center">
+  <img width="200" src="Octocat.png">
+</p>
+
+### Description
+<p align="justify">
+The social networks of developers who starred popular machine learning and web development repositories (with at least 10 stars) until 2019 August. The task is to decide whether a social network belongs to web or machine learning developers. We only included the largest component (at least with 10 users) of graphs.</p>
+
+### Link
+
+- [GitHub StarGazer Graphs](https://github.com/benedekrozemberczki/datasets/blob/master/git_stargazers.zip)
+
+### Properties
+
+- **Number of graphs:** 12,725
+- **Directed:** No.
+- **Node features:** No.
+- **Edge features:** No.
+- **Graph labels:** Yes. Binary-labeled.
+- **Temporal:** No.
+
+|   | **Min**  |**Max**  |
+|---|---|---|
+| **Nodes** |10   | 957  | 
+| **Density** | 0.003 |0.561   | 
+| **Diameter** |  2 | 18 | 
+
+### Possible Tasks
+- **Graph classification**
+
+### Citing
+
+```bibtex
+>@misc{rozemberczki2020karateclub,    
+       title = {Karate Club: An open-source Python framework for unsupervised learning on graphs},   
+       author = {Benedek Rozemberczki and Rik Sarkar},   
+       year = {2020},   
+       publisher = {GitHub},   
+       journal = {GitHub repository},   
+       howpublished = {\url{https://github.com/benedekrozemberczki/karateclub}}   
+       }
+```
+
+
 ## GitHub Social Network
 <p align="center">
   <img width="200" src="Octocat.png">
