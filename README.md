@@ -30,7 +30,7 @@ The social networks of developers who starred popular machine learning and web d
 
 ### Link
 
-- [GitHub Web-ML](https://github.com/benedekrozemberczki/datasets/tree/master/git_web_ml)
+- [GitHub StarGazer Graphs](https://github.com/benedekrozemberczki/datasets/tree/master/git_web_ml)
 
 ### Properties
 
@@ -42,7 +42,7 @@ The social networks of developers who starred popular machine learning and web d
 - **Temporal:** No.
 
 |   | **Min**  |**Max**  |
-|---|---|
+|---|---|---|
 | **Nodes** |10   | 957  | 
 | **Density** | 0.003 |0.561   | 
 | **Diameter** |  2 | 18 | 
