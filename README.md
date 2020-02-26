@@ -30,7 +30,7 @@ The social networks of developers who starred popular machine learning and web d
 
 ### Link
 
-- [GitHub StarGazer Graphs](https://github.com/benedekrozemberczki/datasets/blob/master/git_stargazers.zip)
+- [GitHub StarGazer Graphs](https://github.com/benedekrozemberczki/datasets/blob/master/graph_classification/git_stargazers.zip)
 
 ### Properties
 
@@ -74,8 +74,8 @@ The ego-nets of Twitch users who participated in the partnership program in Apri
 
 ### Link
 
-- [Twitch Ego Nets Part I](https://github.com/benedekrozemberczki/datasets/blob/master/twitch_egos_1.zip)
-- [Twitch Ego Nets Part II + Target](https://github.com/benedekrozemberczki/datasets/blob/master/twitch_egos_2.zip)
+- [Twitch Ego Nets Part I](https://github.com/benedekrozemberczki/datasets/blob/master/graph_classification/twitch_egos_1.zip)
+- [Twitch Ego Nets Part II + Target](https://github.com/benedekrozemberczki/datasets/blob/master/graph_classification/twitch_egos_2.zip)
 
 ### Properties
 
@@ -120,7 +120,7 @@ Discussion and non-discussion based threads from Reddit which we collected in Ma
 
 ### Link
 
-- [Reddit Thread Graphs](https://github.com/benedekrozemberczki/datasets/blob/master/reddit_threads.zip)
+- [Reddit Thread Graphs](https://github.com/benedekrozemberczki/datasets/blob/master/graph_classification/reddit_threads.zip)
 
 ### Properties
 
@@ -165,7 +165,7 @@ The ego-nets of Eastern European users collected from the music streaming servic
 
 ### Link
 
-- [Deezer Ego Nets](https://github.com/benedekrozemberczki/datasets/blob/master/deezer_egos.zip)
+- [Deezer Ego Nets](https://github.com/benedekrozemberczki/datasets/blob/master/graph_classification/deezer_egos.zip)
 
 ### Properties
 
