@@ -152,7 +152,7 @@ The social networks of developers who starred popular machine learning and web d
        }
 ```
 
-## Twitch Ego Nets
+## Deezer Ego Nets
 
 <p align="center">
   <img width="200" src="Octocat.png">
