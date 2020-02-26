@@ -99,7 +99,7 @@ A large social network of GitHub developers which was collected from the public 
 
 ### Citing
 
-
+```bibtex
 >@misc{rozemberczki2019multiscale,    
        title = {Multi-scale Attributed Node Embedding},   
        author = {Benedek Rozemberczki and Carl Allen and Rik Sarkar},   
@@ -108,7 +108,7 @@ A large social network of GitHub developers which was collected from the public 
        archivePrefix = {arXiv},  
        primaryClass = {cs.LG}   
        }
-
+```
 ## Deezer Social Networks
 <p align="center">
   <img width="200" src="deezer.jpg">
@@ -150,7 +150,7 @@ The data was collected from the music streaming service Deezer (November 2017). 
 
 If you find these datasets useful in your research, please cite the following paper:
 
-
+```bibtex
 >@inproceedings{rozemberczki2019gemsec,    
                 title={GEMSEC: Graph Embedding with Self Clustering},    
                 author={Rozemberczki, Benedek and Davies, Ryan and Sarkar, Rik and Sutton, Charles},    
@@ -159,7 +159,7 @@ If you find these datasets useful in your research, please cite the following pa
                 year={2019},    
                 organization={ACM}    
                 }
-
+```
 ## Facebook Page-Page Networks
 <p align="center">
   <img width="200" src="facebook.png">
@@ -210,7 +210,7 @@ We collected data about Facebook pages (November 2017). These datasets represent
 
 If you find these datasets useful in your research, please cite the following paper:
 
-
+```bibtex
 >@inproceedings{rozemberczki2019gemsec,    
                 title={GEMSEC: Graph Embedding with Self Clustering},    
                 author={Rozemberczki, Benedek and Davies, Ryan and Sarkar, Rik and Sutton, Charles},    
@@ -219,7 +219,7 @@ If you find these datasets useful in your research, please cite the following pa
                 year={2019},    
                 organization={ACM}    
                 }
-
+```
        
 ## Wikipedia Article Networks
 <p align="center">
@@ -263,6 +263,7 @@ The data was collected from the English Wikipedia (December 2018). These dataset
 
 If you find these datasets useful in your research, please cite the following paper:
 
+```bibtex
 >@misc{rozemberczki2019multiscale,    
        title = {Multi-scale Attributed Node Embedding},   
        author = {Benedek Rozemberczki and Carl Allen and Rik Sarkar},   
@@ -271,7 +272,7 @@ If you find these datasets useful in your research, please cite the following pa
        archivePrefix = {arXiv},  
        primaryClass = {cs.LG}   
        }
-
+```
 ## Twitch Social Networks
 <p align="center">
   <img width="200" src="twitch.png">
@@ -310,7 +311,7 @@ These datasets used for node classification and transfer learning are Twitch use
 - **Network visualization**
 
 ### Citing
-
+```bibtex
 >@misc{rozemberczki2019multiscale,    
        title = {Multi-scale Attributed Node Embedding},   
        author = {Benedek Rozemberczki and Carl Allen and Rik Sarkar},   
@@ -319,7 +320,7 @@ These datasets used for node classification and transfer learning are Twitch use
        archivePrefix = {arXiv},  
        primaryClass = {cs.LG}   
        }
-
+```
 ## Facebook Large Page-Page Network
 <p align="center">
   <img width="200" src="facebook.png">
@@ -358,7 +359,7 @@ This webgraph is a page-page graph of verified Facebook sites. Nodes represent o
 - **Network visualization**
 
 ### Citing
-
+```bibtex
 >@misc{rozemberczki2019multiscale,    
        title = {Multi-scale Attributed Node Embedding},   
        author = {Benedek Rozemberczki and Carl Allen and Rik Sarkar},   
@@ -367,3 +368,4 @@ This webgraph is a page-page graph of verified Facebook sites. Nodes represent o
        archivePrefix = {arXiv},  
        primaryClass = {cs.LG}   
        }
+```
