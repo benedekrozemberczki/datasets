@@ -74,7 +74,8 @@ The ego-nets of Twitch users who participated in the partnership program in Apri
 
 ### Link
 
-- [Twitch Ego Nets](https://github.com/benedekrozemberczki/datasets/blob/master/twitch_egos.zip)
+- [Twitch Ego Nets Part I](https://github.com/benedekrozemberczki/datasets/blob/master/twitch_egos_1.zip)
+- [Twitch Ego Nets Part II + Target](https://github.com/benedekrozemberczki/datasets/blob/master/twitch_egos.zip)
 
 ### Properties
 
