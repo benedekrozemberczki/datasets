@@ -55,7 +55,7 @@ The social networks of developers who starred popular machine learning and web d
 ```bibtex
 >@misc{rozemberczki2020karateclub,    
        title = {Karate Club: An open-source Python framework for unsupervised learning on graphs},   
-       author = {Benedek Rozemberczki and Rik Sarkar},   
+       author={Rozemberczki, Benedek and Davies, Ryan and Sarkar, Rik and Sutton, Charles},  
        year = {2020},   
        publisher = {GitHub},   
        journal = {GitHub repository},   
@@ -100,7 +100,7 @@ The ego-nets of Twitch users who participated in the partnership program in Apri
 ```bibtex
 >@misc{rozemberczki2020karateclub,    
        title = {Karate Club: An open-source Python framework for unsupervised learning on graphs},   
-       author = {Benedek Rozemberczki and Rik Sarkar},   
+       author={Rozemberczki, Benedek and Davies, Ryan and Sarkar, Rik and Sutton, Charles},  
        year = {2020},   
        publisher = {GitHub},   
        journal = {GitHub repository},   
@@ -145,7 +145,7 @@ Discussion and non-discussion based threads from Reddit which we collected in Ma
 ```bibtex
 >@misc{rozemberczki2020karateclub,    
        title = {Karate Club: An open-source Python framework for unsupervised learning on graphs},   
-       author = {Benedek Rozemberczki and Rik Sarkar},   
+       author={Rozemberczki, Benedek and Davies, Ryan and Sarkar, Rik and Sutton, Charles},  
        year = {2020},   
        publisher = {GitHub},   
        journal = {GitHub repository},   
@@ -190,7 +190,7 @@ The ego-nets of Eastern European users collected from the music streaming servic
 ```bibtex
 >@misc{rozemberczki2020karateclub,    
        title = {Karate Club: An open-source Python framework for unsupervised learning on graphs},   
-       author = {Benedek Rozemberczki and Rik Sarkar},   
+       author={Rozemberczki, Benedek and Davies, Ryan and Sarkar, Rik and Sutton, Charles},
        year = {2020},   
        publisher = {GitHub},   
        journal = {GitHub repository},   
