@@ -70,7 +70,7 @@ The social networks of developers who starred popular machine learning and web d
 
 ### Description
 <p align="justify">
-The social networks of developers who starred popular machine learning and web development repositories (with at least 10 stars) until 2019 August. The task is to decide whether a social network belongs to web or machine learning developers. We only included the largest component (at least with 10 users) of graphs.</p>
+The ego-nets of Twitch users who participated in the partnership program in April 2018. The binary classification task is to predict using the ego-net whether the ego user plays a single or multple games. Players who play a single game usually have a more dense ego-net.</p>
 
 ### Link
 
