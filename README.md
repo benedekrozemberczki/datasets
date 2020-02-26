@@ -65,7 +65,7 @@ The social networks of developers who starred popular machine learning and web d
 
 ## Twitch Ego Nets
 <p align="center">
-  <img width="200" src="twitch.png">
+  <img width="200" src="/images/twitch.png">
 </p>
 
 ### Description
@@ -111,7 +111,7 @@ The ego-nets of Twitch users who participated in the partnership program in Apri
 ## Reddit Thread Graphs
 
 <p align="center">
-  <img width="200" src="reddit-logo-png-transparent.png">
+  <img width="200" src="/images/reddit-logo-png-transparent.png">
 </p>
 
 ### Description
@@ -156,7 +156,7 @@ Discussion and non-discussion based threads from Reddit which we collected in Ma
 ## Deezer Ego Nets
 
 <p align="center">
-  <img width="200" src="deezer.jpg">
+  <img width="200" src="/images/deezer.jpg">
 </p>
 
 ### Description
@@ -201,7 +201,7 @@ The ego-nets of Eastern European users collected from the music streaming servic
 
 ## GitHub Social Network
 <p align="center">
-  <img width="200" src="Octocat.png">
+  <img width="200" src="/images/Octocat.png">
 </p>
 
 ### Description
@@ -247,7 +247,7 @@ A large social network of GitHub developers which was collected from the public 
 ```
 ## Deezer Social Networks
 <p align="center">
-  <img width="200" src="deezer.jpg">
+  <img width="200" src="/images/deezer.jpg">
 </p>
 
 ### Description
@@ -298,7 +298,7 @@ If you find these datasets useful in your research, please cite the following pa
 ```
 ## Facebook Page-Page Networks
 <p align="center">
-  <img width="200" src="facebook.png">
+  <img width="200" src="/images/facebook.png">
 </p>
 
 ### Description
@@ -359,7 +359,7 @@ If you find these datasets useful in your research, please cite the following pa
        
 ## Wikipedia Article Networks
 <p align="center">
-  <img width="400" src="wikipedia-logo.jpg">
+  <img width="400" src="/images/wikipedia-logo.jpg">
 </p>
 
 ### Description
@@ -411,7 +411,7 @@ If you find these datasets useful in your research, please cite the following pa
 ```
 ## Twitch Social Networks
 <p align="center">
-  <img width="200" src="twitch.png">
+  <img width="200" src="/images/twitch.png">
 </p>
 
 
@@ -459,7 +459,7 @@ These datasets used for node classification and transfer learning are Twitch use
 ```
 ## Facebook Large Page-Page Network
 <p align="center">
-  <img width="200" src="facebook.png">
+  <img width="200" src="/images/facebook.png">
 </p>
 
 
