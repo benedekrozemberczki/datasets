@@ -19,6 +19,51 @@ Datasets collected for network science and machine learning research.
 9. [Twitch Social Networks](#twitch-social-networks)
 10. [Facebook Large Page-Page Network](#facebook-large-page-page-network)
 
+## GitHub StarGazer Graphs
+<p align="center">
+  <img width="200" src="Octocat.png">
+</p>
+
+### Description
+<p align="justify">
+A large social network of GitHub developers which was collected from the public API in June 2019. Nodes are developers who have starred at least 10 repositories and edges are mutual follower relationships between them. The vertex features are extracted based on the location, repositories starred, employer and e-mail address. The task related to the graph is binary node classification - one has to predict whether the GitHub user is a web or a machine learning developer. This target feature was derived from the job title of each user.</p>
+
+### Link
+
+- [GitHub Web-ML](https://github.com/benedekrozemberczki/datasets/tree/master/git_web_ml)
+
+### Properties
+
+- **Number of graphs:** 
+- **Directed:** No.
+- **Node features:** No.
+- **Edge features:** No.
+- **Graph labels:** Yes. Binary-labeled.
+- **Temporal:** No.
+
+|   | **GitHub**  |
+|---|---|
+| **Nodes** |37,700   | 
+| **Edges** | 289,003  |
+| **Density** |  0.001 | 
+| **Transitvity** | 0.013| 
+
+### Possible Tasks
+- **Graph classification**
+
+### Citing
+
+```bibtex
+>@misc{rozemberczki2020karateclub,    
+       title = {Karate Club: An open-source Python framework for unsupervised learning on graphs},   
+       author = {Benedek Rozemberczki and Rik Sarkar},   
+       year = {2020},   
+       publisher = {GitHub},   
+       journal = {GitHub repository},   
+       howpublished = {\url{https://github.com/benedekrozemberczki/karateclub}}   
+       }
+```
+
 ## GitHub Social Network
 <p align="center">
   <img width="200" src="Octocat.png">
