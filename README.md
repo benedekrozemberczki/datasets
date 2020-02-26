@@ -26,7 +26,7 @@ Datasets collected for network science and machine learning research.
 
 ### Description
 <p align="justify">
-A large social network of GitHub developers which was collected from the public API in June 2019. Nodes are developers who have starred at least 10 repositories and edges are mutual follower relationships between them. The vertex features are extracted based on the location, repositories starred, employer and e-mail address. The task related to the graph is binary node classification - one has to predict whether the GitHub user is a web or a machine learning developer. This target feature was derived from the job title of each user.</p>
+The social networks of developers who starred popular machine learning and web development repositories (with at least 10 stars) until 2019 August. The task is to decide whether a social network belongs to web or machine learning developers. We only included the largest component (at least with 10 users) of graphs.</p>
 
 ### Link
 
@@ -34,7 +34,7 @@ A large social network of GitHub developers which was collected from the public 
 
 ### Properties
 
-- **Number of graphs:** 
+- **Number of graphs:** 12,725
 - **Directed:** No.
 - **Node features:** No.
 - **Edge features:** No.
@@ -43,10 +43,9 @@ A large social network of GitHub developers which was collected from the public 
 
 |   | **Min**  |**Max**  |
 |---|---|
-| **Nodes** |37,700   | 37,700   | 
-| **Density** | 289,003  |37,700   | 
-| **Transitvity** | 0.013|37,700   | 
-| **Diameter** |  0.001 | 37,700   | 
+| **Nodes** |10   | 957  | 
+| **Density** | 0.003 |0.561   | 
+| **Diameter** |  2 | 18 | 
 
 ### Possible Tasks
 - **Graph classification**
