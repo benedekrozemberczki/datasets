@@ -41,12 +41,12 @@ A large social network of GitHub developers which was collected from the public 
 - **Graph labels:** Yes. Binary-labeled.
 - **Temporal:** No.
 
-|   | **GitHub**  |
+|   | **Min**  |**Max**  |
 |---|---|
 | **Nodes** |37,700   | 
-| **Edges** | 289,003  |
-| **Density** |  0.001 | 
-| **Transitvity** | 0.013| 
+| **Density** | 289,003  |
+| **Transitvity** | 0.013|
+| **Diameter** |  0.001 | 
 
 ### Possible Tasks
 - **Graph classification**
