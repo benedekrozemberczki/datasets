@@ -155,7 +155,7 @@ The social networks of developers who starred popular machine learning and web d
 ## Deezer Ego Nets
 
 <p align="center">
-  <img width="200" src="Octocat.png">
+  <img width="200" src="deezer.jpg">
 </p>
 
 ### Description
