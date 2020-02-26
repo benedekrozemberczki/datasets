@@ -43,10 +43,10 @@ A large social network of GitHub developers which was collected from the public 
 
 |   | **Min**  |**Max**  |
 |---|---|
-| **Nodes** |37,700   | 
-| **Density** | 289,003  |
-| **Transitvity** | 0.013|
-| **Diameter** |  0.001 | 
+| **Nodes** |37,700   | 37,700   | 
+| **Density** | 289,003  |37,700   | 
+| **Transitvity** | 0.013|37,700   | 
+| **Diameter** |  0.001 | 37,700   | 
 
 ### Possible Tasks
 - **Graph classification**
