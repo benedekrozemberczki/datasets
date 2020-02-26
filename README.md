@@ -165,7 +165,7 @@ The ego-nets of Eastern European users collected from the music streaming servic
 
 ### Link
 
-- [GitHub StarGazer Graphs](https://github.com/benedekrozemberczki/datasets/blob/master/deezer_egos.zip)
+- [Deezer Ego Nets](https://github.com/benedekrozemberczki/datasets/blob/master/deezer_egos.zip)
 
 ### Properties
 
