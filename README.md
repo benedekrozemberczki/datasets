@@ -74,11 +74,11 @@ The ego-nets of Twitch users who participated in the partnership program in Apri
 
 ### Link
 
-- [GitHub StarGazer Graphs](https://github.com/benedekrozemberczki/datasets/blob/master/git_stargazers.zip)
+- [Twitch Ego Nets](https://github.com/benedekrozemberczki/datasets/blob/master/git_stargazers.zip)
 
 ### Properties
 
-- **Number of graphs:** 12,725
+- **Number of graphs:** 127,094
 - **Directed:** No.
 - **Node features:** No.
 - **Edge features:** No.
@@ -87,9 +87,9 @@ The ego-nets of Twitch users who participated in the partnership program in Apri
 
 |   | **Min**  |**Max**  |
 |---|---|---|
-| **Nodes** |10   | 957  | 
-| **Density** | 0.003 |0.561   | 
-| **Diameter** |  2 | 18 | 
+| **Nodes** |14   | 52  | 
+| **Density** | 0.038 |0.967   | 
+| **Diameter** |  1 | 2 | 
 
 ### Possible Tasks
 - **Graph classification**
