@@ -7,12 +7,17 @@ Datasets collected for network science and machine learning research.
 </p>
 
 ##### Contents  
-1. [GitHub Social Network](#github-social-network)
-2. [Deezer Social Networks](#deezer-social-networks)
-3. [Facebook Page-Page Networks](#facebook-page-page-networks)  
-4. [Wikipedia Article Networks](#wikipedia-article-networks)
-5. [Twitch Social Networks](#twitch-social-networks)
-6. [Facebook Large Page-Page Network](#facebook-large-page-page-network)
+
+1. [GitHub StarGazer Graphs](#github-stargazer-graphs)
+2. [Twitch Ego Nets](#twitch-ego-nets)
+3. [Reddit Thread Graphs](#reddit-thread-graphs)  
+4. [Deezer Ego Nets](#deezer-ego-nets)
+5. [GitHub Social Network](#github-social-network)
+6. [Deezer Social Networks](#deezer-social-networks)
+7. [Facebook Page-Page Networks](#facebook-page-page-networks)  
+8. [Wikipedia Article Networks](#wikipedia-article-networks)
+9. [Twitch Social Networks](#twitch-social-networks)
+10. [Facebook Large Page-Page Network](#facebook-large-page-page-network)
 
 ## GitHub Social Network
 <p align="center">
