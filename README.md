@@ -115,15 +115,15 @@ The ego-nets of Twitch users who participated in the partnership program in Apri
 
 ### Description
 <p align="justify">
-The social networks of developers who starred popular machine learning and web development repositories (with at least 10 stars) until 2019 August. The task is to decide whether a social network belongs to web or machine learning developers. We only included the largest component (at least with 10 users) of graphs.</p>
+Discussion and non-discussion based threads from Reddit which we collected in May 2018. The task is to predict whether a thread is discussion based or not (binary classification). </p>
 
 ### Link
 
-- [GitHub StarGazer Graphs](https://github.com/benedekrozemberczki/datasets/blob/master/git_stargazers.zip)
+- [Reddit Thread Graphs](https://github.com/benedekrozemberczki/datasets/blob/master/reddit_threads.zip)
 
 ### Properties
 
-- **Number of graphs:** 12,725
+- **Number of graphs:** 203,088
 - **Directed:** No.
 - **Node features:** No.
 - **Edge features:** No.
@@ -132,9 +132,9 @@ The social networks of developers who starred popular machine learning and web d
 
 |   | **Min**  |**Max**  |
 |---|---|---|
-| **Nodes** |10   | 957  | 
-| **Density** | 0.003 |0.561   | 
-| **Diameter** |  2 | 18 | 
+| **Nodes** |11   | 97  | 
+| **Density** | 0.021 |0.382   | 
+| **Diameter** |  2 | 27 | 
 
 ### Possible Tasks
 - **Graph classification**
@@ -160,15 +160,15 @@ The social networks of developers who starred popular machine learning and web d
 
 ### Description
 <p align="justify">
-The social networks of developers who starred popular machine learning and web development repositories (with at least 10 stars) until 2019 August. The task is to decide whether a social network belongs to web or machine learning developers. We only included the largest component (at least with 10 users) of graphs.</p>
+The ego-nets of Eastern European users collected from the music streaming service Deezer in February 2020. The related task is the prediction of gender for the ego node in the graph./p>
 
 ### Link
 
-- [GitHub StarGazer Graphs](https://github.com/benedekrozemberczki/datasets/blob/master/git_stargazers.zip)
+- [GitHub StarGazer Graphs](https://github.com/benedekrozemberczki/datasets/blob/master/deezer_egos.zip)
 
 ### Properties
 
-- **Number of graphs:** 12,725
+- **Number of graphs:** 9,629
 - **Directed:** No.
 - **Node features:** No.
 - **Edge features:** No.
@@ -177,9 +177,9 @@ The social networks of developers who starred popular machine learning and web d
 
 |   | **Min**  |**Max**  |
 |---|---|---|
-| **Nodes** |10   | 957  | 
-| **Density** | 0.003 |0.561   | 
-| **Diameter** |  2 | 18 | 
+| **Nodes** |11   | 363  | 
+| **Density** | 0.015 |0.909   | 
+| **Diameter** |  2 | 2 | 
 
 ### Possible Tasks
 - **Graph classification**
