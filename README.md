@@ -70,7 +70,7 @@ The social networks of developers who starred popular machine learning and web d
 
 ### Description
 <p align="justify">
-The ego-nets of Twitch users who participated in the partnership program in April 2018. The binary classification task is to predict using the ego-net whether the ego user plays a single or multple games. Players who play a single game usually have a more dense ego-net.</p>
+The ego-nets of Twitch users who participated in the partnership program in April 2018. Nodes are users and links are friendships. The binary classification task is to predict using the ego-net whether the ego user plays a single or multple games. Players who play a single game usually have a more dense ego-net.</p>
 
 ### Link
 
