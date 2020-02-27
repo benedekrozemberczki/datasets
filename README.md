@@ -161,7 +161,7 @@ Discussion and non-discussion based threads from Reddit which we collected in Ma
 
 ### Description
 <p align="justify">
-The ego-nets of Eastern European users collected from the music streaming service Deezer in February 2020. The related task is the prediction of gender for the ego node in the graph./p>
+The ego-nets of Eastern European users collected from the music streaming service Deezer in February 2020. Nodes are users and edges are mutual follower relationships. The related task is the prediction of gender for the ego node in the graph./p>
 
 ### Link
 
