@@ -116,7 +116,7 @@ The ego-nets of Twitch users who participated in the partnership program in Apri
 
 ### Description
 <p align="justify">
-Discussion and non-discussion based threads from Reddit which we collected in May 2018. The task is to predict whether a thread is discussion based or not (binary classification). </p>
+Discussion and non-discussion based threads from Reddit which we collected in May 2018. Nodes are Reddit users who participate in a discussion and links are replies between them. The task is to predict whether a thread is discussion based or not (binary classification). </p>
 
 ### Link
 
