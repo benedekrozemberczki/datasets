@@ -143,14 +143,14 @@ Discussion and non-discussion based threads from Reddit which we collected in Ma
 ### Citing
 
 ```bibtex
->@misc{rozemberczki2020karateclub,    
-       title = {Karate Club: An open-source Python framework for unsupervised learning on graphs},   
-       author={Rozemberczki, Benedek and Davies, Ryan and Sarkar, Rik and Sutton, Charles},  
-       year = {2020},   
-       publisher = {GitHub},   
-       journal = {GitHub repository},   
-       howpublished = {\url{https://github.com/benedekrozemberczki/karateclub}}   
-       }
+>@misc{karateclub2020,
+       title={An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs},
+       author={Benedek Rozemberczki and Oliver Kiss and Rik Sarkar},
+       year={2020},
+       eprint={2003.04819},
+       archivePrefix={arXiv},
+       primaryClass={cs.LG}
+}
 ```
 
 ## Deezer Ego Nets
