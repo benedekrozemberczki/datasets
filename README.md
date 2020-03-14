@@ -431,6 +431,12 @@ These datasets used for node classification and transfer learning are Twitch use
 
 ### Properties
 
+- **Directed:** No.
+- **Node features:** Yes.
+- **Edge features:** No.
+- **Node labels:** Yes. Binary-labeled.
+- **Temporal:** No.
+
 
 |   | **DE**  | **EN**  | **ES**  |**FR**  | **PT**  | **RU**  |
 |---|---|---|---|---|---|---|
