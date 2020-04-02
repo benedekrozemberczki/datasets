@@ -26,7 +26,7 @@ Datasets collected for network science and machine learning research.
 
 ### Description
 <p align="justify">
-The social networks of developers who starred popular machine learning and web development repositories (with at least 10 stars) until 2019 August. Nodes are users and links are follower relationships. The task is to decide whether a social network belongs to web or machine learning developers. We only included the largest component (at least with 10 users) of graphs.</p>
+The social networks of developers who starred popular machine learning and web development repositories (with at least 10 stars) until 2019 August. Nodes are users and links are follower relationships. The task is to decide whether a social network belongs to a web or machine learning repository. We only included the largest component (at least with 10 users) of graphs.</p>
 
 ### Link
 
