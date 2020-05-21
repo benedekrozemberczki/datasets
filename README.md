@@ -98,10 +98,10 @@ A social network of Deezer users which was collected from the public API in Marc
 
 |   | **Deezer**  |
 |---|---|
-| **Nodes** |7,624  | 
-| **Edges** | 27,806  |
-| **Density** |  0.001 | 
-| **Transitvity** | 0.179 | 
+| **Nodes** |28,281 | 
+| **Edges** | 92,752  |
+| **Density** |  0.0002 | 
+| **Transitvity** | 0.0959 | 
 
 ### Possible tasks
 
