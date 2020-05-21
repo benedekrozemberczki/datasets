@@ -71,6 +71,57 @@ A social network of LastFM users which was collected from the public API in Marc
          }
 ```
 
+
+## LastFM Asia Social Network
+
+<p align="center">
+  <img width="200" src="/images/lastfm.png">
+</p>
+
+
+
+### Description
+<p align="justify">
+A social network of LastFM users which was collected from the public API in March 2020. Nodes are LastFM users from Asian countries and edges are mutual follower relationships between them. The vertex features are extracted based on the artists liked by the users. The task related to the graph is multinomial node classification - one has to predict the location of users. This target feature was derived from the country field for each user. </p>
+
+### Links
+
+- [Deezer Europe Social Network](https://github.com/benedekrozemberczki/datasets/tree/master/deezer_europe)
+
+### Properties
+
+- **Directed:** No.
+- **Node features:** Yes.
+- **Edge features:** No.
+- **Node labels:** Yes. Binary.
+- **Temporal:** No.
+
+|   | **LastFM**  |
+|---|---|
+| **Nodes** |7,624  | 
+| **Edges** | 27,806  |
+| **Density** |  0.001 | 
+| **Transitvity** | 0.179 | 
+
+### Possible tasks
+
+- **Binary node classification**
+- **Link prediction**
+- **Community detection**
+- **Network visualization**
+
+### Citing
+```bibtex
+    @misc{rozemberczki2020characteristic,
+          title={Characteristic Functions on Graphs: Birds of a Feather, from Statistical Descriptors to Parametric Models},
+          author={Benedek Rozemberczki and Rik Sarkar},
+          year={2020},
+          eprint={2005.07959},
+          archivePrefix={arXiv},
+          primaryClass={cs.LG}
+         }
+```
+
 ## GitHub StarGazer Graphs
 <p align="center">
   <img width="200" src="/images/Octocat.png">
