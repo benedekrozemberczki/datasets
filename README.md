@@ -8,16 +8,19 @@ Datasets collected for network science and machine learning research.
 
 ##### Contents  
 
-1. [GitHub StarGazer Graphs](#github-stargazer-graphs)
-2. [Twitch Ego Nets](#twitch-ego-nets)
-3. [Reddit Thread Graphs](#reddit-thread-graphs)  
-4. [Deezer Ego Nets](#deezer-ego-nets)
-5. [GitHub Social Network](#github-social-network)
-6. [Deezer Social Networks](#deezer-social-networks)
-7. [Facebook Page-Page Networks](#facebook-page-page-networks)  
-8. [Wikipedia Article Networks](#wikipedia-article-networks)
-9. [Twitch Social Networks](#twitch-social-networks)
-10. [Facebook Large Page-Page Network](#facebook-large-page-page-network)
+
+1. [LastFM Asia Social Networks](#lastfm-asia)
+2  [Deezer Europe Social Network](#deezer-europe)
+3. [GitHub StarGazer Graphs](#github-stargazer-graphs)
+4. [Twitch Ego Nets](#twitch-ego-nets)
+5. [Reddit Thread Graphs](#reddit-thread-graphs)  
+6. [Deezer Ego Nets](#deezer-ego-nets)
+7. [GitHub Social Network](#github-social-network)
+8. [Deezer Social Networks](#deezer-social-networks)
+9. [Facebook Page-Page Networks](#facebook-page-page-networks)  
+10. [Wikipedia Article Networks](#wikipedia-article-networks)
+11. [Twitch Social Networks](#twitch-social-networks)
+12. [Facebook Large Page-Page Network](#facebook-large-page-page-network)
 
 ## GitHub StarGazer Graphs
 <p align="center">
