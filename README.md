@@ -45,12 +45,12 @@ A social network of LastFM users which was collected from the public API in Marc
 - **Node labels:** Yes. Multinomial.
 - **Temporal:** No.
 
-|   | **Facebook**  |
+|   | **LastFM**  |
 |---|---|
-| **Nodes** |22,470   | 
-| **Edges** | 171,002  |
+| **Nodes** |7,624  | 
+| **Edges** | 27,806  |
 | **Density** |  0.001 | 
-| **Transitvity** | 0.232| 
+| **Transitvity** | 0.179 | 
 
 ### Possible tasks
 
