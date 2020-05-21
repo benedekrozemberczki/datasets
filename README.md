@@ -9,7 +9,7 @@ Datasets collected for network science and machine learning research.
 ##### Contents  
 
 1. [LastFM Asia Social Networks](#lastfm-asia)
-2  [Deezer Europe Social Network](#deezer-europe)
+2. [Deezer Europe Social Network](#deezer-europe)
 3. [GitHub StarGazer Graphs](#github-stargazer-graphs)
 4. [Twitch Ego Nets](#twitch-ego-nets)
 5. [Reddit Thread Graphs](#reddit-thread-graphs)  
