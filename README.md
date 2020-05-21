@@ -72,17 +72,17 @@ A social network of LastFM users which was collected from the public API in Marc
 ```
 
 
-## LastFM Asia Social Network
+## Deezer Europe Social Network
 
 <p align="center">
-  <img width="200" src="/images/lastfm.png">
+  <img width="200" src="/images/deezer.jpg">
 </p>
 
 
 
 ### Description
 <p align="justify">
-A social network of LastFM users which was collected from the public API in March 2020. Nodes are LastFM users from Asian countries and edges are mutual follower relationships between them. The vertex features are extracted based on the artists liked by the users. The task related to the graph is multinomial node classification - one has to predict the location of users. This target feature was derived from the country field for each user. </p>
+A social network of Deezer users which was collected from the public API in March 2020. Nodes are Deezer users from European countries and edges are mutual follower relationships between them. The vertex features are extracted based on the artists liked by the users. The task related to the graph is binary node classification - one has to predict the gender of users. This target feature was derived from the name field for each user. </p>
 
 ### Links
 
@@ -96,7 +96,7 @@ A social network of LastFM users which was collected from the public API in Marc
 - **Node labels:** Yes. Binary.
 - **Temporal:** No.
 
-|   | **LastFM**  |
+|   | **Deezer**  |
 |---|---|
 | **Nodes** |7,624  | 
 | **Edges** | 27,806  |
