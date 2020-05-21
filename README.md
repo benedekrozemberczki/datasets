@@ -30,11 +30,11 @@ Datasets collected for network science and machine learning research.
 
 ### Description
 <p align="justify">
-This webgraph is a page-page graph of verified Facebook sites. Nodes represent official Facebook pages while the links are mutual likes between sites. Node features are extracted from the site descriptions that the page owners created to summarize the purpose of the site. This graph was collected through the Facebook Graph API in November 2017 and restricted to pages from 4 categories which are defined by Facebook. These categories are: politicians, governmental organizations, television shows and companies. The task related to this dataset is multi-class node classification for the 4 site categories. </p>
+A social network of LastFM users which was collected from the public API in March 2020. Nodes are LastFM users from Asian countries and edges are mutual follower relationships between them. The vertex features are extracted based on the artists liked by the users. The task related to the graph is multinomial node classification - one has to predict the location of users. This target feature was derived from the country field for each user. </p>
 
 ### Links
 
-- [Facebook Large Page-Page](https://github.com/benedekrozemberczki/datasets/tree/master/facebook_large)
+- [LastFM Asia Sociel Network](https://github.com/benedekrozemberczki/datasets/tree/master/facebook_large)
 
 ### Properties
 
