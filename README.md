@@ -8,7 +8,7 @@ Datasets collected for network science and machine learning research.
 
 ##### Contents  
 
-1. [LastFM Asia Social Networks](#lastfm-asia)
+1. [LastFM Asia Social Networks](#lastfm-asia-social-networks)
 2. [Deezer Europe Social Network](#deezer-europe)
 3. [GitHub StarGazer Graphs](#github-stargazer-graphs)
 4. [Twitch Ego Nets](#twitch-ego-nets)
@@ -20,6 +20,57 @@ Datasets collected for network science and machine learning research.
 10. [Wikipedia Article Networks](#wikipedia-article-networks)
 11. [Twitch Social Networks](#twitch-social-networks)
 12. [Facebook Large Page-Page Network](#facebook-large-page-page-network)
+
+## LastFM Asian Social Networks
+<p align="center">
+  <img width="200" src="/images/facebook.png">
+</p>
+
+
+
+### Description
+<p align="justify">
+This webgraph is a page-page graph of verified Facebook sites. Nodes represent official Facebook pages while the links are mutual likes between sites. Node features are extracted from the site descriptions that the page owners created to summarize the purpose of the site. This graph was collected through the Facebook Graph API in November 2017 and restricted to pages from 4 categories which are defined by Facebook. These categories are: politicians, governmental organizations, television shows and companies. The task related to this dataset is multi-class node classification for the 4 site categories. </p>
+
+### Links
+
+- [Facebook Large Page-Page](https://github.com/benedekrozemberczki/datasets/tree/master/facebook_large)
+
+### Properties
+
+- **Directed:** No.
+- **Node features:** Yes.
+- **Edge features:** No.
+- **Node labels:** Yes. Multinomial.
+- **Temporal:** No.
+
+|   | **Facebook**  |
+|---|---|
+| **Nodes** |22,470   | 
+| **Edges** | 171,002  |
+| **Density** |  0.001 | 
+| **Transitvity** | 0.232| 
+
+### Possible tasks
+
+- **Multi-class node classification**
+- **Link prediction**
+- **Community detection**
+- **Network visualization**
+
+### Citing
+```bibtex
+>@misc{rozemberczki2019multiscale,    
+       title = {Multi-scale Attributed Node Embedding},   
+       author = {Benedek Rozemberczki and Carl Allen and Rik Sarkar},   
+       year = {2019},   
+       eprint = {1909.13021},  
+       archivePrefix = {arXiv},  
+       primaryClass = {cs.LG}   
+       }
+```
+
+
 
 ## GitHub StarGazer Graphs
 <p align="center">
