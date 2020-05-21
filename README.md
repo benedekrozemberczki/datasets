@@ -21,7 +21,8 @@ Datasets collected for network science and machine learning research.
 11. [Twitch Social Networks](#twitch-social-networks)
 12. [Facebook Large Page-Page Network](#facebook-large-page-page-network)
 
-## LastFM Asia Social Networks
+## LastFM Asia Social Network
+
 <p align="center">
   <img width="200" src="/images/lastfm.png">
 </p>
