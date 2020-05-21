@@ -23,7 +23,7 @@ Datasets collected for network science and machine learning research.
 
 ## LastFM Asia Social Networks
 <p align="center">
-  <img width="200" src="/images/facebook.png">
+  <img width="200" src="/images/lastfm.png">
 </p>
 
 
