@@ -34,7 +34,7 @@ A social network of LastFM users which was collected from the public API in Marc
 
 ### Links
 
-- [LastFM Asia Sociel Network](https://github.com/benedekrozemberczki/datasets/tree/master/facebook_large)
+- [LastFM Asia Social Network](https://github.com/benedekrozemberczki/datasets/tree/master/lastfm_asia)
 
 ### Properties
 
