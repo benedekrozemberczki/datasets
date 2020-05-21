@@ -60,17 +60,15 @@ A social network of LastFM users which was collected from the public API in Marc
 
 ### Citing
 ```bibtex
->@misc{rozemberczki2019multiscale,    
-       title = {Multi-scale Attributed Node Embedding},   
-       author = {Benedek Rozemberczki and Carl Allen and Rik Sarkar},   
-       year = {2019},   
-       eprint = {1909.13021},  
-       archivePrefix = {arXiv},  
-       primaryClass = {cs.LG}   
-       }
+    @misc{rozemberczki2020characteristic,
+          title={Characteristic Functions on Graphs: Birds of a Feather, from Statistical Descriptors to Parametric Models},
+          author={Benedek Rozemberczki and Rik Sarkar},
+          year={2020},
+          eprint={2005.07959},
+          archivePrefix={arXiv},
+          primaryClass={cs.LG}
+         }
 ```
-
-
 
 ## GitHub StarGazer Graphs
 <p align="center">
