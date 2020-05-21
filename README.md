@@ -486,7 +486,7 @@ This webgraph is a page-page graph of verified Facebook sites. Nodes represent o
 - **Directed:** No.
 - **Node features:** Yes.
 - **Edge features:** No.
-- **Node labels:** Yes. Binary-labeled.
+- **Node labels:** Yes. Multinomial.
 - **Temporal:** No.
 
 |   | **Facebook**  |
