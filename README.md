@@ -1,6 +1,6 @@
 # Datasets ![License](https://img.shields.io/github/license/benedekrozemberczki/datasets.svg?color=blue&style=plastic)
 
-Datasets collected for network science and machine learning research.
+Datasets collected for network science, deep learning and general machine learning research.
 
 <p align="center">
   <img width="600" src="/images/field.png">
