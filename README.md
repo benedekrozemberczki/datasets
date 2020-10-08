@@ -111,14 +111,13 @@ A social network of Deezer users which was collected from the public API in Marc
 
 ### Citing
 ```bibtex
-    @misc{rozemberczki2020characteristic,
-          title={Characteristic Functions on Graphs: Birds of a Feather, from Statistical Descriptors to Parametric Models},
-          author={Benedek Rozemberczki and Rik Sarkar},
-          year={2020},
-          eprint={2005.07959},
-          archivePrefix={arXiv},
-          primaryClass={cs.LG}
-         }
+@inproceedings{feather,
+               title={{Characteristic Functions on Graphs: Birds of a Feather, from Statistical Descriptors to Parametric Models}},
+               author={Benedek Rozemberczki and Rik Sarkar},
+               year={2020},
+	       booktitle={Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM '20)},
+	       organization={ACM},
+}
 ```
 
 ## GitHub StarGazer Graphs
