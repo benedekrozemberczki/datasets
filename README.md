@@ -286,13 +286,12 @@ The ego-nets of Eastern European users collected from the music streaming servic
 ### Citing
 
 ```bibtex
->@misc{karateclub2020,
-       title={An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs},
-       author={Benedek Rozemberczki and Oliver Kiss and Rik Sarkar},
-       year={2020},
-       eprint={2003.04819},
-       archivePrefix={arXiv},
-       primaryClass={cs.LG}
+@inproceedings{karateclub,
+       title = {{Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs}},
+       author = {Benedek Rozemberczki and Oliver Kiss and Rik Sarkar},
+       year = {2020},
+       booktitle = {Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM '20)},
+       organization = {ACM},
 }
 ```
 
