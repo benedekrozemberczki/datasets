@@ -65,6 +65,7 @@ A social network of LastFM users which was collected from the public API in Marc
                title={{Characteristic Functions on Graphs: Birds of a Feather, from Statistical Descriptors to Parametric Models}},
                author={Benedek Rozemberczki and Rik Sarkar},
                year={2020},
+	       pages = {1325–1334},
 	       booktitle={Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM '20)},
 	       organization={ACM},
 }
