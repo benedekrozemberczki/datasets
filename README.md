@@ -1,4 +1,4 @@
-# Datasets ![License](https://img.shields.io/github/license/benedekrozemberczki/datasets.svg?color=blue&style=plastic)
+# Datasets ![License](https://img.shields.io/github/license/benedekrozemberczki/datasets.svg?color=blue&style=plastic) [![repo size](https://img.shields.io/github/repo-size/benedekrozemberczki/datasets.svg)](https://github.com/benedekrozemberczki/datasets/archive/master.zip)
 
 Datasets collected for network science, deep learning and general machine learning research.
 
