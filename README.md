@@ -34,13 +34,7 @@ These datasets used for node classification and transfer learning are Twitch use
 ### Links
 
 
-- [Germany](https://github.com/benedekrozemberczki/datasets/tree/master/twitch/DE/)
-- [England](https://github.com/benedekrozemberczki/datasets/tree/master/twitch/ENGB/)
-- [Spain](https://github.com/benedekrozemberczki/datasets/tree/master/twitch/ES/)
-- [France](https://github.com/benedekrozemberczki/datasets/tree/master/twitch/FR/)
-- [Porutgal](https://github.com/benedekrozemberczki/datasets/tree/master/twitch/PTBR/)
-- [Russia](https://github.com/benedekrozemberczki/datasets/tree/master/twitch/RU/)
-- [Taiwan](https://github.com/benedekrozemberczki/datasets/tree/master/twitch/TW/)
+- [Germany](https://github.com/benedekrozemberczki/datasets/tree/master/twitch_gamers/)
 
 ### Properties
 
