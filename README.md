@@ -9,18 +9,18 @@ Datasets collected for network science, deep learning and general machine learni
 ##### Contents  
 
 1. [Twitch Gamers](#twitch-gamers)
-1. [LastFM Asia Social Network](#lastfm-asia-social-network)
-2. [Deezer Europe Social Network](#deezer-europe-social-network)
-3. [GitHub StarGazer Graphs](#github-stargazer-graphs)
-4. [Twitch Ego Nets](#twitch-ego-nets)
-5. [Reddit Thread Graphs](#reddit-thread-graphs)  
-6. [Deezer Ego Nets](#deezer-ego-nets)
-7. [GitHub Social Network](#github-social-network)
-8. [Deezer Social Networks](#deezer-social-networks)
-9. [Facebook Page-Page Networks](#facebook-page-page-networks)  
-10. [Wikipedia Article Networks](#wikipedia-article-networks)
-11. [Twitch Social Networks](#twitch-social-networks)
-12. [Facebook Large Page-Page Network](#facebook-large-page-page-network)
+2. [LastFM Asia Social Network](#lastfm-asia-social-network)
+3. [Deezer Europe Social Network](#deezer-europe-social-network)
+4. [GitHub StarGazer Graphs](#github-stargazer-graphs)
+5. [Twitch Ego Nets](#twitch-ego-nets)
+6. [Reddit Thread Graphs](#reddit-thread-graphs)  
+7. [Deezer Ego Nets](#deezer-ego-nets)
+8. [GitHub Social Network](#github-social-network)
+9. [Deezer Social Networks](#deezer-social-networks)
+10. [Facebook Page-Page Networks](#facebook-page-page-networks)  
+11. [Wikipedia Article Networks](#wikipedia-article-networks)
+12. [Twitch Social Networks](#twitch-social-networks)
+13. [Facebook Large Page-Page Network](#facebook-large-page-page-network)
 
 ## Twitch Gamers
 <p align="center">
