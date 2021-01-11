@@ -8,6 +8,7 @@ Datasets collected for network science, deep learning and general machine learni
 
 ##### Contents  
 
+1. [Twitch Gamers](#twitch-gamers)
 1. [LastFM Asia Social Network](#lastfm-asia-social-network)
 2. [Deezer Europe Social Network](#deezer-europe-social-network)
 3. [GitHub StarGazer Graphs](#github-stargazer-graphs)
