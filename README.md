@@ -47,12 +47,13 @@ A social network of Twitch users which was collected from the public API in Spri
 ### Properties
 
 - **Directed:** No.
-- **Node features:** Yes.
+- **Node features:** No.
 - **Edge features:** No.
-- **Node labels:** Yes. Binary-labeled, multi-class labels, count and date labels.
+- **Node labels:** Yes.
 - **Temporal:** No.
 
 
+|   | **Twitch Gamers**  |
 |---|---|
 | **Nodes** |9,498   |
 | **Edges** | 153,138  |
