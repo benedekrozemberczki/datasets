@@ -21,7 +21,7 @@ Datasets collected for network science, deep learning and general machine learni
 11. [Twitch Social Networks](#twitch-social-networks)
 12. [Facebook Large Page-Page Network](#facebook-large-page-page-network)
 
-## Twitch Social Networks
+## Twitch Gamers
 <p align="center">
   <img width="200" src="/images/twitch.png">
 </p>
