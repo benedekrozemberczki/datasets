@@ -55,9 +55,9 @@ A social network of Twitch users which was collected from the public API in Spri
 
 |   | **Twitch Gamers**  |
 |---|---|
-| **Nodes** |9,498   |
-| **Edges** | 153,138  |
-| **Density** |  0.003 |
+| **Nodes** |168,114   |
+| **Edges** | 6,797,557 |
+| **Density** |  0.0005 |
 | **Transitvity** | 0.047|
 
 ### Possible tasks
