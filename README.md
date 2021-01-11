@@ -64,6 +64,7 @@ A social network of Twitch users which was collected from the public API in Spri
 
 - **Binary node classification**
 - **Multi-class node classification**
+- **Count data regression**
 - **Link prediction**
 - **Community detection**
 - **Community detection with ground truth**
