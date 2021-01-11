@@ -30,7 +30,14 @@ Datasets collected for network science, deep learning and general machine learni
 
 ### Description
 <p align="justify">
-These datasets used for node classification and transfer learning are Twitch user-user networks of gamers who stream in a certain language. Nodes are the users themselves and the links are mutual friendships between them. Vertex features are extracted based on the games played and liked, location and streaming habits. Datasets share the same set of node features, this makes transfer learning across networks possible. These social networks were collected in May 2018. The supervised task related to these networks is binary node classification - one has to predict whether a streamer uses explicit language.</p>
+A social network of Twitch users which was collected from the public API in Spring 2018. Nodes are Twitch users and edges are mutual follower relationships between them. The graph forms a single strongly connected component without missing attributes. The machine learning tasks related to the graph are count data regression and node classification. There are 6 specific tasks:</p>
+
+- Explicit content streamer identification.
+- Broadcaster language prediction.
+- User lifetime estimation.
+- Churn prediction.
+- Affiliate status identification.
+- View count estimation.
 
 ### Links
 
