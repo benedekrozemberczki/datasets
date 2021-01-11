@@ -69,13 +69,13 @@ A social network of Twitch users which was collected from the public API in Spri
 
 ### Citing
 ```bibtex
->@misc{rozemberczki2019multiscale,    
-       title = {Multi-scale Attributed Node Embedding},   
-       author = {Benedek Rozemberczki and Carl Allen and Rik Sarkar},   
-       year = {2019},   
-       eprint = {1909.13021},  
-       archivePrefix = {arXiv},  
-       primaryClass = {cs.LG}   
+>@misc{rozemberczki2021twitch,
+       title = {Twitch Gamers: a Dataset for Evaluating Proximity Preserving and Structural Role-based Node Embeddings}, 
+       author = {Benedek Rozemberczki and Rik Sarkar},
+       year = {2021},
+       eprint = {2101.03091},
+       archivePrefix = {arXiv},
+       primaryClass = {cs.SI}
        }
 ```
 
