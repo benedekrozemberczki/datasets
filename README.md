@@ -21,6 +21,62 @@ Datasets collected for network science, deep learning and general machine learni
 11. [Twitch Social Networks](#twitch-social-networks)
 12. [Facebook Large Page-Page Network](#facebook-large-page-page-network)
 
+## Twitch Social Networks
+<p align="center">
+  <img width="200" src="/images/twitch.png">
+</p>
+
+
+### Description
+<p align="justify">
+These datasets used for node classification and transfer learning are Twitch user-user networks of gamers who stream in a certain language. Nodes are the users themselves and the links are mutual friendships between them. Vertex features are extracted based on the games played and liked, location and streaming habits. Datasets share the same set of node features, this makes transfer learning across networks possible. These social networks were collected in May 2018. The supervised task related to these networks is binary node classification - one has to predict whether a streamer uses explicit language.</p>
+
+### Links
+
+
+- [Germany](https://github.com/benedekrozemberczki/datasets/tree/master/twitch/DE/)
+- [England](https://github.com/benedekrozemberczki/datasets/tree/master/twitch/ENGB/)
+- [Spain](https://github.com/benedekrozemberczki/datasets/tree/master/twitch/ES/)
+- [France](https://github.com/benedekrozemberczki/datasets/tree/master/twitch/FR/)
+- [Porutgal](https://github.com/benedekrozemberczki/datasets/tree/master/twitch/PTBR/)
+- [Russia](https://github.com/benedekrozemberczki/datasets/tree/master/twitch/RU/)
+- [Taiwan](https://github.com/benedekrozemberczki/datasets/tree/master/twitch/TW/)
+
+### Properties
+
+- **Directed:** No.
+- **Node features:** Yes.
+- **Edge features:** No.
+- **Node labels:** Yes. Binary-labeled, multi-class labels, count and date labels.
+- **Temporal:** No.
+
+
+|   | **DE**  | **EN**  | **ES**  |**FR**  | **PT**  | **RU**  |**TW**  |
+|---|---|---|---|---|---|---|---|
+| **Nodes** |9,498   | 7,126  |  4,648 |6,549   | 1,912  |  4,385 |2,772 |
+| **Edges** | 153,138  |35,324 |  59,382 |112,666   | 31,299  |  37,304 |63,462 |
+| **Density** |  0.003 | 0.002  | 0.006 | 0.005   | 0.017  |  0.004 |0.017|
+| **Transitvity** | 0.047| 0.042 | 0.084 |0.054   | 0.131  |  0.049 |0.120 |
+
+### Possible tasks
+
+- **Binary node classification**
+- **Link prediction**
+- **Community detection**
+- **Network visualization**
+
+### Citing
+```bibtex
+>@misc{rozemberczki2019multiscale,    
+       title = {Multi-scale Attributed Node Embedding},   
+       author = {Benedek Rozemberczki and Carl Allen and Rik Sarkar},   
+       year = {2019},   
+       eprint = {1909.13021},  
+       archivePrefix = {arXiv},  
+       primaryClass = {cs.LG}   
+       }
+```
+
 ## LastFM Asia Social Network
 
 <p align="center">
