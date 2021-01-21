@@ -533,9 +533,9 @@ The data was collected from the English Wikipedia (December 2018). These dataset
 
 ### Links
 
-- [Wikipedia Chameleons](https://github.com/benedekrozemberczki/datasets/tree/master/wikipedia/chameleon/)
-- [Wikipedia Crocodiles](https://github.com/benedekrozemberczki/datasets/tree/master/wikipedia/crocodile/)
-- [Wikipedia Squirrels](https://github.com/benedekrozemberczki/datasets/tree/master/wikipedia/squirrel/)
+- [Wikipedia Chameleons](https://graphmining.ai/datasets/wikipedia/chameleon.zip)
+- [Wikipedia Crocodiles](https://graphmining.ai/datasets/wikipedia/crocodile.zip)
+- [Wikipedia Squirrels](https://graphmining.ai/datasets/wikipedia/squirrel.zip)
 
 ### Properties
 
@@ -586,13 +586,13 @@ These datasets used for node classification and transfer learning are Twitch use
 ### Links
 
 
-- [Germany](https://github.com/benedekrozemberczki/datasets/tree/master/twitch/DE/)
-- [England](https://github.com/benedekrozemberczki/datasets/tree/master/twitch/ENGB/)
-- [Spain](https://github.com/benedekrozemberczki/datasets/tree/master/twitch/ES/)
-- [France](https://github.com/benedekrozemberczki/datasets/tree/master/twitch/FR/)
-- [Porutgal](https://github.com/benedekrozemberczki/datasets/tree/master/twitch/PTBR/)
-- [Russia](https://github.com/benedekrozemberczki/datasets/tree/master/twitch/RU/)
-- [Taiwan](https://github.com/benedekrozemberczki/datasets/tree/master/twitch/TW/)
+- [Germany](https://graphmining.ai/datasets/twitch/DE.zip)
+- [England](https://graphmining.ai/datasets/twitch/ENGB.zip))
+- [Spain](https://graphmining.ai/datasets/twitch/ES.zip)
+- [France](https://graphmining.ai/datasets/twitch/FR.zip)
+- [Porutgal](https://graphmining.ai/datasets/twitch/PTBR.zip)
+- [Russia](https://graphmining.ai/datasets/twitch/RU.zip)
+- [Taiwan](https://graphmining.ai/datasets/twitch/TW.zip)
 
 ### Properties
 
@@ -641,7 +641,7 @@ This webgraph is a page-page graph of verified Facebook sites. Nodes represent o
 
 ### Links
 
-- [Facebook Large Page-Page](https://github.com/benedekrozemberczki/datasets/tree/master/facebook_large)
+- [Facebook Large Page-Page](https://github.com/benedekrozemberczki/datasets/tree/master/facebook.zip)
 
 ### Properties
 
