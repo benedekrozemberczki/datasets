@@ -96,7 +96,7 @@ A social network of LastFM users which was collected from the public API in Marc
 
 ### Links
 
-- [LastFM Asia Social Network](https://graphmining.ai/datasets/lastfm_asia.zip)
+- [LastFM Asia Social Network](https://graphmining.ai/datasets/lasftm_asia.zip)
 
 ### Properties
 
