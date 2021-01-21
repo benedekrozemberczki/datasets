@@ -587,7 +587,7 @@ These datasets used for node classification and transfer learning are Twitch use
 
 
 - [Germany](https://graphmining.ai/datasets/twitch/DE.zip)
-- [England](https://graphmining.ai/datasets/twitch/ENGB.zip))
+- [England](https://graphmining.ai/datasets/twitch/ENGB.zip)
 - [Spain](https://graphmining.ai/datasets/twitch/ES.zip)
 - [France](https://graphmining.ai/datasets/twitch/FR.zip)
 - [Porutgal](https://graphmining.ai/datasets/twitch/PTBR.zip)
@@ -641,7 +641,7 @@ This webgraph is a page-page graph of verified Facebook sites. Nodes represent o
 
 ### Links
 
-- [Facebook Large Page-Page](https://github.com/benedekrozemberczki/datasets/tree/master/facebook.zip)
+- [Facebook Large Page-Page](https://graphmining.ai/datasets/facebook_large.zip)
 
 ### Properties
 
