@@ -420,9 +420,9 @@ The data was collected from the music streaming service Deezer (November 2017). 
 
 ### Links
 
-- [Romania](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/RO/)
-- [Croatia](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/HR/)
-- [Hungary](https://github.com/benedekrozemberczki/datasets/tree/master/deezer/HU/)
+- [Romania](https://graphmining.ai/datasets/deezer/RO.zip)
+- [Croatia](https://graphmining.ai/datasets/deezer/HR.zip)
+- [Hungary](https://graphmining.ai/datasets/deezer/HU.zip)
 
 ### Properties
 
