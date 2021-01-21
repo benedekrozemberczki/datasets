@@ -476,7 +476,7 @@ We collected data about Facebook pages (November 2017). These datasets represent
 - [Companies](https://graphmining.ai/datasets/facebook_page_page/company_edges.zip)
 - [Athletes](https://graphmining.ai/datasets/facebook_page_page/athletes_edges.zip)
 - [Media](https://graphmining.ai/datasets/facebook_page_page/new_sites_edges.zip)
-- [Public Figures](https://graphmining.ai/datasets/facebook_page_page/public_figures_edges.zip)
+- [Public Figures](https://graphmining.ai/datasets/facebook_page_page/public_figure_edges.zip)
 - [Artists](https://graphmining.ai/datasets/facebook_page_page/artist_edges.zip)
 - [Government](https://graphmining.ai/datasets/facebook_page_page/government_edges.zip)
 - [TV Shows](https://graphmining.ai/datasets/facebook_page_page/tvshow_edges.zip)
