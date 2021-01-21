@@ -42,7 +42,7 @@ A social network of Twitch users which was collected from the public API in Spri
 ### Links
 
 
-- [Twitch Gamers](https://github.com/benedekrozemberczki/datasets/tree/master/twitch_gamers/)
+- [Twitch Gamers](https://graphmining.ai/datasets/twitch_gamers.zip)
 
 ### Properties
 
