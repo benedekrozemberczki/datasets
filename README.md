@@ -25,7 +25,7 @@ Datasets collected for network science, deep learning and general machine learni
 
 ## Chickenpox Cases in Hungary
 <p align="center">
-  <img width="200" src="/images/twitch.png">
+  <img width="200" src="/images/chickenpox.jpg">
 </p>
 
 
