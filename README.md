@@ -6,8 +6,8 @@ Datasets collected for network science, deep learning and general machine learni
   <img width="600" src="/images/field.png">
 </p>
 
-##### Contents  
-
+##### Contents   
+1. [Chickenpox Cases in Hungary](#chickenpox-cases)
 1. [Twitch Gamers](#twitch-gamers)
 2. [LastFM Asia Social Network](#lastfm-asia-social-network)
 3. [Deezer Europe Social Network](#deezer-europe-social-network)
