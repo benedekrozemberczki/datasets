@@ -31,7 +31,7 @@ Datasets collected for network science, deep learning and general machine learni
 
 ### Description
 <p align="justify">
-A. There are 2 specific tasks:</p>
+A spatio-temporal dataset of weekly chickenpox (childhood disease) cases from Hungary. The dataset consists of a county-level adjacency matrix and time series of the county-level reported cases between 2005 and 2015. There are 2 specific related tasks:</p>
 
 - County level case count prediction.
 - National level case count prediction.
