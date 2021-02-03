@@ -48,15 +48,13 @@ A social network of Twitch users which was collected from the public API in Spri
 ### Properties
 
 - **Directed:** No.
-- **Node features:** No.
-- **Edge features:** No.
-- **Node labels:** Yes.
-- **Temporal:** No.
+- **Node features:** Yes.
+- **Temporal:** Yes.
 
 
 |   | **Twitch Gamers**  |
 |---|---|
-| **Nodes** |168,114   |
+| **Nodes** |20   |
 | **Edges** | 6,797,557 |
 | **Density** |  0.0005 |
 | **Transitvity** | 0.0184|
