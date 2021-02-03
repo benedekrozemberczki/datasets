@@ -39,8 +39,8 @@ A. There are 2 specific tasks:</p>
 ### Links
 
 
-- [Chickenpox Cases in Hungary Edges](https://graphmining.ai/datasets/twitch_gamers.zip)
-- [Chickenpox Cases in Hungary Time Series](https://graphmining.ai/datasets/twitch_gamers.zip)
+- [Chickenpox Cases in Hungary Edges](https://graphmining.ai/temporal_datasets/hungary_chickenpox.csv)
+- [Chickenpox Cases in Hungary Time Series](https://graphmining.ai/temporal_datasets/hungary_chickenpox.csv)
 
 ### Properties
 
