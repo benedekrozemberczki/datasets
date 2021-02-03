@@ -8,19 +8,19 @@ Datasets collected for network science, deep learning and general machine learni
 
 ##### Contents   
 1. [Chickenpox Cases in Hungary](#chickenpox-cases)
-1. [Twitch Gamers](#twitch-gamers)
-2. [LastFM Asia Social Network](#lastfm-asia-social-network)
-3. [Deezer Europe Social Network](#deezer-europe-social-network)
-4. [GitHub StarGazer Graphs](#github-stargazer-graphs)
-5. [Twitch Ego Nets](#twitch-ego-nets)
-6. [Reddit Thread Graphs](#reddit-thread-graphs)  
-7. [Deezer Ego Nets](#deezer-ego-nets)
-8. [GitHub Social Network](#github-social-network)
-9. [Deezer Social Networks](#deezer-social-networks)
-10. [Facebook Page-Page Networks](#facebook-page-page-networks)  
-11. [Wikipedia Article Networks](#wikipedia-article-networks)
-12. [Twitch Social Networks](#twitch-social-networks)
-13. [Facebook Large Page-Page Network](#facebook-large-page-page-network)
+2. [Twitch Gamers](#twitch-gamers)
+3. [LastFM Asia Social Network](#lastfm-asia-social-network)
+4. [Deezer Europe Social Network](#deezer-europe-social-network)
+5. [GitHub StarGazer Graphs](#github-stargazer-graphs)
+6. [Twitch Ego Nets](#twitch-ego-nets)
+7. [Reddit Thread Graphs](#reddit-thread-graphs)  
+8. [Deezer Ego Nets](#deezer-ego-nets)
+9. [GitHub Social Network](#github-social-network)
+10. [Deezer Social Networks](#deezer-social-networks)
+11. [Facebook Page-Page Networks](#facebook-page-page-networks)  
+12. [Wikipedia Article Networks](#wikipedia-article-networks)
+13. [Twitch Social Networks](#twitch-social-networks)
+14. [Facebook Large Page-Page Network](#facebook-large-page-page-network)
 
 ## Twitch Gamers
 <p align="center">
