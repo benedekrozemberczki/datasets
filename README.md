@@ -39,7 +39,8 @@ A social network of Twitch users which was collected from the public API in Spri
 ### Links
 
 
-- [Twitch Gamers](https://graphmining.ai/datasets/twitch_gamers.zip)
+- [Chickenpox Cases in Hungary Edges](https://graphmining.ai/datasets/twitch_gamers.zip)
+- [Chickenpox Cases in Hungary Time Series](https://graphmining.ai/datasets/twitch_gamers.zip)
 
 ### Properties
 
