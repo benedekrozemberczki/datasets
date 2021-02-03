@@ -53,7 +53,7 @@ A social network of Twitch users which was collected from the public API in Spri
 |---|---|
 | **Nodes** |20   |
 | **Edges** |61 |
-| **Density** |  0.0005 |
+| **Density** |  0.3211 |
 | **Transitvity** | 0.0184|
 
 ### Possible tasks
