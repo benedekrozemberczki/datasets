@@ -54,17 +54,11 @@ A social network of Twitch users which was collected from the public API in Spri
 | **Nodes** |20   |
 | **Edges** |61 |
 | **Density** |  0.3211 |
-| **Transitvity** | 0.0184|
+| **Transitvity** | 0.4134|
 
 ### Possible tasks
 
-- **Binary node classification**
-- **Multi-class node classification**
 - **Count data regression**
-- **Link prediction**
-- **Community detection**
-- **Community detection with ground truth**
-- **Network visualization**
 
 ### Citing
 ```bibtex
