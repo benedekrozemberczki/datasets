@@ -21,44 +21,6 @@ Datasets collected for network science, deep learning and general machine learni
 13. [Twitch Social Networks](#twitch-social-networks)
 14. [Facebook Large Page-Page Network](#facebook-large-page-page-network)
 
-
-## Chickenpox Cases in Hungary
-<p align="center">
-  <img width="200" src="https://babesabouttown.com/wp-content/uploads/2010/06/chicken-pox-boy.jpg">
-</p>
-
-
-### Description
-<p align="justify">
-A spatio-temporal dataset of weekly chickenpox (childhood disease) cases from Hungary. The dataset consists of a county-level adjacency matrix and time series of the county-level reported cases between 2005 and 2015. There are 2 specific related tasks:</p>
-
-- County level case count prediction.
-- National level case count prediction.
-
-### Links
-
-
-- [Chickenpox Cases in Hungary Edges](https://graphmining.ai/temporal_datasets/hungary_county_edges.csv)
-- [Chickenpox Cases in Hungary Time Series](https://graphmining.ai/temporal_datasets/hungary_chickenpox.csv)
-
-### Properties
-
-- **Directed:** No.
-- **Node features:** Yes.
-- **Temporal:** Yes.
-
-
-|   | **Twitch Gamers**  |
-|---|---|
-| **Nodes** |20   |
-| **Edges** |61 |
-| **Density** |  0.3211 |
-| **Transitvity** | 0.4134|
-
-### Possible tasks
-
-- **Count data regression**
-
 ## Twitch Gamers
 <p align="center">
   <img width="200" src="/images/twitch.png">
