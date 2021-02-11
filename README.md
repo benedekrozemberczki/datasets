@@ -1,4 +1,4 @@
-# Datasets ![License](https://img.shields.io/github/license/benedekrozemberczki/datasets.svg?color=blue) [![repo size](https://img.shields.io/github/repo-size/benedekrozemberczki/datasets.svg)](https://github.com/benedekrozemberczki/datasets/archive/master.zip)
+# Datasets ![License](https://img.shields.io/github/license/benedekrozemberczki/datasets.svg?color=blue) [![repo size](https://img.shields.io/github/repo-size/benedekrozemberczki/datasets.svg)](https://github.com/benedekrozemberczki/datasets/archive/master.zip) ⠀[![benedekrozemberczki](https://img.shields.io/twitter/follow/benrozemberczki?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=benrozemberczki)⠀
 
 Datasets collected for network science, deep learning and general machine learning research.
 
