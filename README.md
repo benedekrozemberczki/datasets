@@ -667,12 +667,12 @@ This webgraph is a page-page graph of verified Facebook sites. Nodes represent o
 
 ### Citing
 ```bibtex
->@misc{rozemberczki2019multiscale,    
-       title = {Multi-scale Attributed Node Embedding},   
-       author = {Benedek Rozemberczki and Carl Allen and Rik Sarkar},   
-       year = {2019},   
-       eprint = {1909.13021},  
-       archivePrefix = {arXiv},  
-       primaryClass = {cs.LG}   
-       }
+>@article{musae,
+          author = {Rozemberczki, Benedek and Allen, Carl and Sarkar, Rik},
+          title = {{Multi-Scale Attributed Node Embedding}},
+          journal = {Journal of Complex Networks},
+          volume = {9},
+          number = {2},
+          year = {2021},
+}
 ```
