@@ -564,14 +564,14 @@ The data was collected from the English Wikipedia (December 2018). These dataset
 If you find these datasets useful in your research, please cite the following paper:
 
 ```bibtex
->@misc{rozemberczki2019multiscale,    
-       title = {Multi-scale Attributed Node Embedding},   
-       author = {Benedek Rozemberczki and Carl Allen and Rik Sarkar},   
-       year = {2019},   
-       eprint = {1909.13021},  
-       archivePrefix = {arXiv},  
-       primaryClass = {cs.LG}   
-       }
+>@article{musae,
+          author = {Rozemberczki, Benedek and Allen, Carl and Sarkar, Rik},
+          title = {{Multi-Scale Attributed Node Embedding}},
+          journal = {Journal of Complex Networks},
+          volume = {9},
+          number = {2},
+          year = {2021},
+}
 ```
 ## Twitch Social Networks
 <p align="center">
