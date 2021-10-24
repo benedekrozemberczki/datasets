@@ -374,7 +374,7 @@ A large social network of GitHub developers which was collected from the public 
 
 ### Link
 
-- [GitHub Web-ML](https://github.com/benedekrozemberczki/datasets/tree/master/git_web_ml)
+- [GitHub Web-ML](https://snap.stanford.edu/data/github-social.html)
 
 ### Properties
 
