@@ -147,7 +147,7 @@ A social network of Deezer users which was collected from the public API in Marc
 
 ### Links
 
-- [Deezer Europe Social Network](https://graphmining.ai/datasets/deezer_europe.zip)
+- [Deezer Europe Social Network](https://snap.stanford.edu/data/feather-deezer-social.html)
 
 ### Properties
 
