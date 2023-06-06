@@ -42,7 +42,7 @@ A social network of Twitch users collected from the public API in Spring 2018. N
 ### Links
 
 
-- [Twitch Gamers](https://graphai-datasets.web.app/twitch_gamers.zip)
+- [Twitch Gamers](http://snap.stanford.edu/data/twitch_gamers.html)
 
 ### Properties
 
@@ -96,7 +96,7 @@ A social network of LastFM users which was collected from the public API in Marc
 
 ### Links
 
-- [LastFM Asia Social Network](https://graphai-datasets.web.app/lasftm_asia.zip)
+- [LastFM Asia Social Network](http://snap.stanford.edu/data/feather-lastfm-social.html)
 
 ### Properties
 
@@ -194,7 +194,7 @@ The social networks of developers who starred popular machine learning and web d
 
 ### Link
 
-- [GitHub StarGazer Graphs + Target](https://graphai-datasets.web.app/graph_classification/git_stargazers.zip)
+- [GitHub StarGazer Graphs + Target](http://snap.stanford.edu/data/github_stargazers.html)
 
 ### Properties
 
@@ -238,8 +238,7 @@ The ego-nets of Twitch users who participated in the partnership program in Apri
 
 ### Link
 
-- [Twitch Ego Nets Part I](https://graphai-datasets.web.app/graph_classification/twitch_egos_1.zip)
-- [Twitch Ego Nets Part II + Target](https://graphai-datasets.web.app/graph_classification/twitch_egos_2.zip)
+- [Twitch Ego Nets Part](http://snap.stanford.edu/data/twitch_ego_nets.html)
 
 ### Properties
 
@@ -284,7 +283,7 @@ Discussion and non-discussion based threads from Reddit which we collected in Ma
 
 ### Link
 
-- [Reddit Thread Graphs + Target](https://graphai-datasets.web.app/datasets/graph_classification/reddit_threads.zip)
+- [Reddit Thread Graphs + Target](http://snap.stanford.edu/data/reddit_threads.html)
 
 ### Properties
 
@@ -329,7 +328,7 @@ The ego-nets of Eastern European users collected from the music streaming servic
 
 ### Link
 
-- [Deezer Ego Nets + Target](https://graphai-datasets.web.app/graph_classification/deezer_egos.zip)
+- [Deezer Ego Nets + Target](http://snap.stanford.edu/data/deezer_ego_nets.html)
 
 ### Properties
 
@@ -586,13 +585,13 @@ These datasets used for node classification and transfer learning are Twitch use
 ### Links
 
 
-- [Germany](http://snap.stanford.edu/data/twitch_gamers.html)
-- [England](http://snap.stanford.edu/data/twitch_gamers.html)
-- [Spain](http://snap.stanford.edu/data/twitch_gamers.html)
-- [France](http://snap.stanford.edu/data/twitch_gamers.html)
-- [Porutgal](http://snap.stanford.edu/data/twitch_gamers.html)
-- [Russia](http://snap.stanford.edu/data/twitch_gamers.html)
-- [Taiwan](http://snap.stanford.edu/data/twitch_gamers.html)
+- [Germany](http://snap.stanford.edu/data/twitch-social-networks.html)
+- [England](http://snap.stanford.edu/data/twitch-social-networks.html)
+- [Spain](http://snap.stanford.edu/data/twitch-social-networks.html)
+- [France](http://snap.stanford.edu/data/twitch-social-networks.html)
+- [Porutgal](http://snap.stanford.edu/data/twitch-social-networks.html)
+- [Russia](http://snap.stanford.edu/data/twitch-social-networks.html)
+- [Taiwan](http://snap.stanford.edu/data/twitch-social-networks.html)
 
 ### Properties
 
