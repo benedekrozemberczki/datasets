@@ -42,7 +42,7 @@ A social network of Twitch users collected from the public API in Spring 2018. N
 ### Links
 
 
-- [Twitch Gamers](https://graphmining.ai/datasets/twitch_gamers.zip)
+- [Twitch Gamers](https://graphai-datasets.web.app/twitch_gamers.zip)
 
 ### Properties
 
@@ -96,7 +96,7 @@ A social network of LastFM users which was collected from the public API in Marc
 
 ### Links
 
-- [LastFM Asia Social Network](https://graphmining.ai/datasets/lasftm_asia.zip)
+- [LastFM Asia Social Network](https://graphai-datasets.web.app/lasftm_asia.zip)
 
 ### Properties
 
@@ -194,7 +194,7 @@ The social networks of developers who starred popular machine learning and web d
 
 ### Link
 
-- [GitHub StarGazer Graphs + Target](https://graphmining.ai/datasets/graph_classification/git_stargazers.zip)
+- [GitHub StarGazer Graphs + Target](https://graphai-datasets.web.app/graph_classification/git_stargazers.zip)
 
 ### Properties
 
@@ -238,8 +238,8 @@ The ego-nets of Twitch users who participated in the partnership program in Apri
 
 ### Link
 
-- [Twitch Ego Nets Part I](https://graphmining.ai/datasets/graph_classification/twitch_egos_1.zip)
-- [Twitch Ego Nets Part II + Target](https://graphmining.ai/datasets/graph_classification/twitch_egos_2.zip)
+- [Twitch Ego Nets Part I](https://graphai-datasets.web.app/graph_classification/twitch_egos_1.zip)
+- [Twitch Ego Nets Part II + Target](https://graphai-datasets.web.app/graph_classification/twitch_egos_2.zip)
 
 ### Properties
 
@@ -284,7 +284,7 @@ Discussion and non-discussion based threads from Reddit which we collected in Ma
 
 ### Link
 
-- [Reddit Thread Graphs + Target](https://graphmining.ai/datasets/graph_classification/reddit_threads.zip)
+- [Reddit Thread Graphs + Target](https://graphai-datasets.web.app/datasets/graph_classification/reddit_threads.zip)
 
 ### Properties
 
@@ -329,7 +329,7 @@ The ego-nets of Eastern European users collected from the music streaming servic
 
 ### Link
 
-- [Deezer Ego Nets + Target](https://graphmining.ai/datasets/graph_classification/deezer_egos.zip)
+- [Deezer Ego Nets + Target](https://graphai-datasets.web.app/graph_classification/deezer_egos.zip)
 
 ### Properties
 
@@ -420,9 +420,9 @@ The data was collected from the music streaming service Deezer (November 2017). 
 
 ### Links
 
-- [Romania](https://graphmining.ai/datasets/deezer/RO.zip)
-- [Croatia](https://graphmining.ai/datasets/deezer/HR.zip)
-- [Hungary](https://graphmining.ai/datasets/deezer/HU.zip)
+- [Romania](http://snap.stanford.edu/data/gemsec-Deezer.html)
+- [Croatia](http://snap.stanford.edu/data/gemsec-Deezer.html)
+- [Hungary](http://snap.stanford.edu/data/gemsec-Deezer.html)
 
 ### Properties
 
@@ -472,14 +472,14 @@ We collected data about Facebook pages (November 2017). These datasets represent
 
 ### Links
 
-- [Politicians](https://graphmining.ai/datasets/facebook_page_page/politician_edges.zip)
-- [Companies](https://graphmining.ai/datasets/facebook_page_page/company_edges.zip)
-- [Athletes](https://graphmining.ai/datasets/facebook_page_page/athletes_edges.zip)
-- [Media](https://graphmining.ai/datasets/facebook_page_page/new_sites_edges.zip)
-- [Public Figures](https://graphmining.ai/datasets/facebook_page_page/public_figure_edges.zip)
-- [Artists](https://graphmining.ai/datasets/facebook_page_page/artist_edges.zip)
-- [Government](https://graphmining.ai/datasets/facebook_page_page/government_edges.zip)
-- [TV Shows](https://graphmining.ai/datasets/facebook_page_page/tvshow_edges.zip)
+- [Politicians](http://snap.stanford.edu/data/gemsec-Facebook.html)
+- [Companies](http://snap.stanford.edu/data/gemsec-Facebook.html)
+- [Athletes](http://snap.stanford.edu/data/gemsec-Facebook.html)
+- [Media](http://snap.stanford.edu/data/gemsec-Facebook.html)
+- [Public Figures](http://snap.stanford.edu/data/gemsec-Facebook.html)
+- [Artists](http://snap.stanford.edu/data/gemsec-Facebook.html)
+- [Government](http://snap.stanford.edu/data/gemsec-Facebook.html)
+- [TV Shows](http://snap.stanford.edu/data/gemsec-Facebook.html)
 
 ### Properties
 
@@ -533,9 +533,9 @@ The data was collected from the English Wikipedia (December 2018). These dataset
 
 ### Links
 
-- [Wikipedia Chameleons](https://graphmining.ai/datasets/wikipedia/chameleon.zip)
-- [Wikipedia Crocodiles](https://graphmining.ai/datasets/wikipedia/crocodile.zip)
-- [Wikipedia Squirrels](https://graphmining.ai/datasets/wikipedia/squirrel.zip)
+- [Wikipedia Chameleons](http://snap.stanford.edu/data/wikipedia-article-networks.html)
+- [Wikipedia Crocodiles](http://snap.stanford.edu/data/wikipedia-article-networks.html)
+- [Wikipedia Squirrels](http://snap.stanford.edu/data/wikipedia-article-networks.html)
 
 ### Properties
 
@@ -586,13 +586,13 @@ These datasets used for node classification and transfer learning are Twitch use
 ### Links
 
 
-- [Germany](https://graphmining.ai/datasets/twitch/DE.zip)
-- [England](https://graphmining.ai/datasets/twitch/ENGB.zip)
-- [Spain](https://graphmining.ai/datasets/twitch/ES.zip)
-- [France](https://graphmining.ai/datasets/twitch/FR.zip)
-- [Porutgal](https://graphmining.ai/datasets/twitch/PTBR.zip)
-- [Russia](https://graphmining.ai/datasets/twitch/RU.zip)
-- [Taiwan](https://graphmining.ai/datasets/twitch/TW.zip)
+- [Germany](http://snap.stanford.edu/data/twitch_gamers.html)
+- [England](http://snap.stanford.edu/data/twitch_gamers.html)
+- [Spain](http://snap.stanford.edu/data/twitch_gamers.html)
+- [France](http://snap.stanford.edu/data/twitch_gamers.html)
+- [Porutgal](http://snap.stanford.edu/data/twitch_gamers.html)
+- [Russia](http://snap.stanford.edu/data/twitch_gamers.html)
+- [Taiwan](http://snap.stanford.edu/data/twitch_gamers.html)
 
 ### Properties
 
@@ -641,7 +641,7 @@ This webgraph is a page-page graph of verified Facebook sites. Nodes represent o
 
 ### Links
 
-- [Facebook Large Page-Page](https://graphmining.ai/datasets/facebook_large.zip)
+- [Facebook Large Page-Page](http://snap.stanford.edu/data/facebook-large-page-page-network.html)
 
 ### Properties
 
